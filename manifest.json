@@ -1,8 +1,7 @@
 {
   "name": "color",
   "version": "1.0.0",
-  "artboardSize": 90,
-  "renderingMode": "both",
+  "artboardSize": 32,
   "iconCount": 661,
   "icons": [
     "winner",
