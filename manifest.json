@@ -2,18 +2,21 @@
   "name": "color",
   "version": "1.0.0",
   "artboardSize": 90,
-  "iconCount": 10,
+  "iconCount": 13,
   "icons": [
+    "membership-crown-gray",
+    "board-fog-of-war",
+    "calendar-puzzle",
+    "circle-blue+-info",
+    "dragon-eye",
+    "dragon-fire",
+    "dragon-temple",
+    "emoji-pointer-1",
+    "emoji-stareyes",
+    "hand-point-down-left",
     "hand-point-down-right",
     "karate-chop",
-    "karate-dress",
-    "membership-crown-gray",
-    "membership-crown-silver",
-    "membership-diamond-gray",
-    "membership-diamond-silver",
-    "membership-star-gray",
-    "membership-star-silver",
-    "ninja-mask"
+    "karate-dress"
   ],
   "palette": [
     {
