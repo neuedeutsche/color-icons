@@ -666,10 +666,2007 @@
     "skill-discovered",
     "king-check"
   ],
+  "colorMode": "multicolor",
   "palette": [
     {
       "name": "primary",
       "defaultHex": "#ffffff"
+    },
+    {
+      "name": "#1a1816",
+      "defaultHex": "#1a1816"
+    },
+    {
+      "name": "#4b4847",
+      "defaultHex": "#4b4847"
+    },
+    {
+      "name": "#312e2b",
+      "defaultHex": "#312e2b"
+    },
+    {
+      "name": "#666564",
+      "defaultHex": "#666564"
+    },
+    {
+      "name": "#305730",
+      "defaultHex": "#305730"
+    },
+    {
+      "name": "#bebdb9",
+      "defaultHex": "#bebdb9"
+    },
+    {
+      "name": "#81b64c",
+      "defaultHex": "#81b64c"
+    },
+    {
+      "name": "#e7e6e5",
+      "defaultHex": "#e7e6e5"
+    },
+    {
+      "name": "#b2e068",
+      "defaultHex": "#b2e068"
+    },
+    {
+      "name": "#5d9948",
+      "defaultHex": "#5d9948"
+    },
+    {
+      "name": "#45753c",
+      "defaultHex": "#45753c"
+    },
+    {
+      "name": "#8b8987",
+      "defaultHex": "#8b8987"
+    },
+    {
+      "name": "#e8e6e1",
+      "defaultHex": "#e8e6e1"
+    },
+    {
+      "name": "#0b548c",
+      "defaultHex": "#0b548c"
+    },
+    {
+      "name": "#009fd9",
+      "defaultHex": "#009fd9"
+    },
+    {
+      "name": "#4dc3ea",
+      "defaultHex": "#4dc3ea"
+    },
+    {
+      "name": "#881822",
+      "defaultHex": "#881822"
+    },
+    {
+      "name": "#ad1f24",
+      "defaultHex": "#ad1f24"
+    },
+    {
+      "name": "#e02828",
+      "defaultHex": "#e02828"
+    },
+    {
+      "name": "#fa742c",
+      "defaultHex": "#fa742c"
+    },
+    {
+      "name": "#2b0910",
+      "defaultHex": "#2b0910"
+    },
+    {
+      "name": "#fa412d",
+      "defaultHex": "#fa412d"
+    },
+    {
+      "name": "#ff8a75",
+      "defaultHex": "#ff8a75"
+    },
+    {
+      "name": "#f7c631",
+      "defaultHex": "#f7c631"
+    },
+    {
+      "name": "#cf8d1b",
+      "defaultHex": "#cf8d1b"
+    },
+    {
+      "name": "#fad541",
+      "defaultHex": "#fad541"
+    },
+    {
+      "name": "#d99b21",
+      "defaultHex": "#d99b21"
+    },
+    {
+      "name": "#ffffc7",
+      "defaultHex": "#ffffc7"
+    },
+    {
+      "name": "#fce26a",
+      "defaultHex": "#fce26a"
+    },
+    {
+      "name": "#f8f8f8",
+      "defaultHex": "#f8f8f8"
+    },
+    {
+      "name": "#e3aa24",
+      "defaultHex": "#e3aa24"
+    },
+    {
+      "name": "#fff599",
+      "defaultHex": "#fff599"
+    },
+    {
+      "name": "#d5a47d",
+      "defaultHex": "#d5a47d"
+    },
+    {
+      "name": "#8d694b",
+      "defaultHex": "#8d694b"
+    },
+    {
+      "name": "#e3c29c",
+      "defaultHex": "#e3c29c"
+    },
+    {
+      "name": "#b18664",
+      "defaultHex": "#b18664"
+    },
+    {
+      "name": "#f9d44e",
+      "defaultHex": "#f9d44e"
+    },
+    {
+      "name": "#d9d9d9",
+      "defaultHex": "#d9d9d9"
+    },
+    {
+      "name": "#262421",
+      "defaultHex": "#262421"
+    },
+    {
+      "name": "#dad8d6",
+      "defaultHex": "#dad8d6"
+    },
+    {
+      "name": "#f1f1f1",
+      "defaultHex": "#f1f1f1"
+    },
+    {
+      "name": "#d8fa9d",
+      "defaultHex": "#d8fa9d"
+    },
+    {
+      "name": "#162921",
+      "defaultHex": "#162921"
+    },
+    {
+      "name": "#76bc52",
+      "defaultHex": "#76bc52"
+    },
+    {
+      "name": "#eba097",
+      "defaultHex": "#eba097"
+    },
+    {
+      "name": "#db7e7c",
+      "defaultHex": "#db7e7c"
+    },
+    {
+      "name": "#ffc200",
+      "defaultHex": "#ffc200"
+    },
+    {
+      "name": "#ce8f11",
+      "defaultHex": "#ce8f11"
+    },
+    {
+      "name": "#dc3f32",
+      "defaultHex": "#dc3f32"
+    },
+    {
+      "name": "#223e74",
+      "defaultHex": "#223e74"
+    },
+    {
+      "name": "#f7df7e",
+      "defaultHex": "#f7df7e"
+    },
+    {
+      "name": "#eb9333",
+      "defaultHex": "#eb9333"
+    },
+    {
+      "name": "#ffd566",
+      "defaultHex": "#ffd566"
+    },
+    {
+      "name": "#a87538",
+      "defaultHex": "#a87538"
+    },
+    {
+      "name": "#ecb859",
+      "defaultHex": "#ecb859"
+    },
+    {
+      "name": "#c17a33",
+      "defaultHex": "#c17a33"
+    },
+    {
+      "name": "#df822a",
+      "defaultHex": "#df822a"
+    },
+    {
+      "name": "#1c9ec6",
+      "defaultHex": "#1c9ec6"
+    },
+    {
+      "name": "#15bbfb",
+      "defaultHex": "#15bbfb"
+    },
+    {
+      "name": "#f8b5ac",
+      "defaultHex": "#f8b5ac"
+    },
+    {
+      "name": "#f6b0a7",
+      "defaultHex": "#f6b0a7"
+    },
+    {
+      "name": "#de7f80",
+      "defaultHex": "#de7f80"
+    },
+    {
+      "name": "#f9c3bc",
+      "defaultHex": "#f9c3bc"
+    },
+    {
+      "name": "#fbf4d9",
+      "defaultHex": "#fbf4d9"
+    },
+    {
+      "name": "#c66d62",
+      "defaultHex": "#c66d62"
+    },
+    {
+      "name": "#7a2721",
+      "defaultHex": "#7a2721"
+    },
+    {
+      "name": "#75377c",
+      "defaultHex": "#75377c"
+    },
+    {
+      "name": "#fbf8e0",
+      "defaultHex": "#fbf8e0"
+    },
+    {
+      "name": "#331d36",
+      "defaultHex": "#331d36"
+    },
+    {
+      "name": "#28150a",
+      "defaultHex": "#28150a"
+    },
+    {
+      "name": "#3b1e0d",
+      "defaultHex": "#3b1e0d"
+    },
+    {
+      "name": "#c99114",
+      "defaultHex": "#c99114"
+    },
+    {
+      "name": "#c1763f",
+      "defaultHex": "#c1763f"
+    },
+    {
+      "name": "#995424",
+      "defaultHex": "#995424"
+    },
+    {
+      "name": "#f4bf35",
+      "defaultHex": "#f4bf35"
+    },
+    {
+      "name": "#df935e",
+      "defaultHex": "#df935e"
+    },
+    {
+      "name": "#f7ad02",
+      "defaultHex": "#f7ad02"
+    },
+    {
+      "name": "#f7d702",
+      "defaultHex": "#f7d702"
+    },
+    {
+      "name": "#eb98a0",
+      "defaultHex": "#eb98a0"
+    },
+    {
+      "name": "#0b0404",
+      "defaultHex": "#0b0404"
+    },
+    {
+      "name": "#220b0b",
+      "defaultHex": "#220b0b"
+    },
+    {
+      "name": "#bfc9d9",
+      "defaultHex": "#bfc9d9"
+    },
+    {
+      "name": "#345d76",
+      "defaultHex": "#345d76"
+    },
+    {
+      "name": "#bf4b8e",
+      "defaultHex": "#bf4b8e"
+    },
+    {
+      "name": "#f6dbda",
+      "defaultHex": "#f6dbda"
+    },
+    {
+      "name": "#b77c1d",
+      "defaultHex": "#b77c1d"
+    },
+    {
+      "name": "#eda928",
+      "defaultHex": "#eda928"
+    },
+    {
+      "name": "#e8d22d",
+      "defaultHex": "#e8d22d"
+    },
+    {
+      "name": "#f6ccca",
+      "defaultHex": "#f6ccca"
+    },
+    {
+      "name": "#d47484",
+      "defaultHex": "#d47484"
+    },
+    {
+      "name": "#6c4d23",
+      "defaultHex": "#6c4d23"
+    },
+    {
+      "name": "#372614",
+      "defaultHex": "#372614"
+    },
+    {
+      "name": "#8e3548",
+      "defaultHex": "#8e3548"
+    },
+    {
+      "name": "#d6b28f",
+      "defaultHex": "#d6b28f"
+    },
+    {
+      "name": "#c52107",
+      "defaultHex": "#c52107"
+    },
+    {
+      "name": "#a7551b",
+      "defaultHex": "#a7551b"
+    },
+    {
+      "name": "#fca84a",
+      "defaultHex": "#fca84a"
+    },
+    {
+      "name": "#fcdf89",
+      "defaultHex": "#fcdf89"
+    },
+    {
+      "name": "#d87a18",
+      "defaultHex": "#d87a18"
+    },
+    {
+      "name": "#faf28d",
+      "defaultHex": "#faf28d"
+    },
+    {
+      "name": "#521801",
+      "defaultHex": "#521801"
+    },
+    {
+      "name": "#722c04",
+      "defaultHex": "#722c04"
+    },
+    {
+      "name": "#e60d03",
+      "defaultHex": "#e60d03"
+    },
+    {
+      "name": "#271209",
+      "defaultHex": "#271209"
+    },
+    {
+      "name": "#400000",
+      "defaultHex": "#400000"
+    },
+    {
+      "name": "#70130c",
+      "defaultHex": "#70130c"
+    },
+    {
+      "name": "#7c5544",
+      "defaultHex": "#7c5544"
+    },
+    {
+      "name": "#ed251c",
+      "defaultHex": "#ed251c"
+    },
+    {
+      "name": "#5b3a26",
+      "defaultHex": "#5b3a26"
+    },
+    {
+      "name": "#d90000",
+      "defaultHex": "#d90000"
+    },
+    {
+      "name": "#ab0000",
+      "defaultHex": "#ab0000"
+    },
+    {
+      "name": "#da0000",
+      "defaultHex": "#da0000"
+    },
+    {
+      "name": "#f00000",
+      "defaultHex": "#f00000"
+    },
+    {
+      "name": "#f00001",
+      "defaultHex": "#f00001"
+    },
+    {
+      "name": "#feead2",
+      "defaultHex": "#feead2"
+    },
+    {
+      "name": "#eb3035",
+      "defaultHex": "#eb3035"
+    },
+    {
+      "name": "#c12b36",
+      "defaultHex": "#c12b36"
+    },
+    {
+      "name": "#f9faff",
+      "defaultHex": "#f9faff"
+    },
+    {
+      "name": "#2d0000",
+      "defaultHex": "#2d0000"
+    },
+    {
+      "name": "#328cff",
+      "defaultHex": "#328cff"
+    },
+    {
+      "name": "#262525",
+      "defaultHex": "#262525"
+    },
+    {
+      "name": "#f58a1f",
+      "defaultHex": "#f58a1f"
+    },
+    {
+      "name": "#f26e21",
+      "defaultHex": "#f26e21"
+    },
+    {
+      "name": "#f1be4c",
+      "defaultHex": "#f1be4c"
+    },
+    {
+      "name": "#a2a1a0",
+      "defaultHex": "#a2a1a0"
+    },
+    {
+      "name": "#c6c7c9",
+      "defaultHex": "#c6c7c9"
+    },
+    {
+      "name": "#49494b",
+      "defaultHex": "#49494b"
+    },
+    {
+      "name": "#575758",
+      "defaultHex": "#575758"
+    },
+    {
+      "name": "#2d293e",
+      "defaultHex": "#2d293e"
+    },
+    {
+      "name": "#333a63",
+      "defaultHex": "#333a63"
+    },
+    {
+      "name": "#364e83",
+      "defaultHex": "#364e83"
+    },
+    {
+      "name": "#dad7d5",
+      "defaultHex": "#dad7d5"
+    },
+    {
+      "name": "#fbae42",
+      "defaultHex": "#fbae42"
+    },
+    {
+      "name": "#f9ed32",
+      "defaultHex": "#f9ed32"
+    },
+    {
+      "name": "#43130f",
+      "defaultHex": "#43130f"
+    },
+    {
+      "name": "#ededed",
+      "defaultHex": "#ededed"
+    },
+    {
+      "name": "#160b28",
+      "defaultHex": "#160b28"
+    },
+    {
+      "name": "#565c88",
+      "defaultHex": "#565c88"
+    },
+    {
+      "name": "#fbe28b",
+      "defaultHex": "#fbe28b"
+    },
+    {
+      "name": "#1e052d",
+      "defaultHex": "#1e052d"
+    },
+    {
+      "name": "#7c86be",
+      "defaultHex": "#7c86be"
+    },
+    {
+      "name": "#7980ba",
+      "defaultHex": "#7980ba"
+    },
+    {
+      "name": "#f9f7fa",
+      "defaultHex": "#f9f7fa"
+    },
+    {
+      "name": "#4e7738",
+      "defaultHex": "#4e7738"
+    },
+    {
+      "name": "#699940",
+      "defaultHex": "#699940"
+    },
+    {
+      "name": "#231f20",
+      "defaultHex": "#231f20"
+    },
+    {
+      "name": "#ee4652",
+      "defaultHex": "#ee4652"
+    },
+    {
+      "name": "#ff0000",
+      "defaultHex": "#ff0000"
+    },
+    {
+      "name": "#dadbdd",
+      "defaultHex": "#dadbdd"
+    },
+    {
+      "name": "#808285",
+      "defaultHex": "#808285"
+    },
+    {
+      "name": "#8e885f",
+      "defaultHex": "#8e885f"
+    },
+    {
+      "name": "#a8a171",
+      "defaultHex": "#a8a171"
+    },
+    {
+      "name": "#bab380",
+      "defaultHex": "#bab380"
+    },
+    {
+      "name": "#87825f",
+      "defaultHex": "#87825f"
+    },
+    {
+      "name": "#c1ba87",
+      "defaultHex": "#c1ba87"
+    },
+    {
+      "name": "#939598",
+      "defaultHex": "#939598"
+    },
+    {
+      "name": "#58cc02",
+      "defaultHex": "#58cc02"
+    },
+    {
+      "name": "#8fe91e",
+      "defaultHex": "#8fe91e"
+    },
+    {
+      "name": "#f49000",
+      "defaultHex": "#f49000"
+    },
+    {
+      "name": "#122431",
+      "defaultHex": "#122431"
+    },
+    {
+      "name": "#f48000",
+      "defaultHex": "#f48000"
+    },
+    {
+      "name": "#777777",
+      "defaultHex": "#777777"
+    },
+    {
+      "name": "#99580e",
+      "defaultHex": "#99580e"
+    },
+    {
+      "name": "#ff788a",
+      "defaultHex": "#ff788a"
+    },
+    {
+      "name": "#b27314",
+      "defaultHex": "#b27314"
+    },
+    {
+      "name": "#7a4414",
+      "defaultHex": "#7a4414"
+    },
+    {
+      "name": "#6a4632",
+      "defaultHex": "#6a4632"
+    },
+    {
+      "name": "#4a4743",
+      "defaultHex": "#4a4743"
+    },
+    {
+      "name": "#83defc",
+      "defaultHex": "#83defc"
+    },
+    {
+      "name": "#e3a926",
+      "defaultHex": "#e3a926"
+    },
+    {
+      "name": "#ff6352",
+      "defaultHex": "#ff6352"
+    },
+    {
+      "name": "#383532",
+      "defaultHex": "#383532"
+    },
+    {
+      "name": "#bdbcb8",
+      "defaultHex": "#bdbcb8"
+    },
+    {
+      "name": "#b3aca8",
+      "defaultHex": "#b3aca8"
+    },
+    {
+      "name": "#807b76",
+      "defaultHex": "#807b76"
+    },
+    {
+      "name": "#ff949d",
+      "defaultHex": "#ff949d"
+    },
+    {
+      "name": "#ffa459",
+      "defaultHex": "#ffa459"
+    },
+    {
+      "name": "#fa466a",
+      "defaultHex": "#fa466a"
+    },
+    {
+      "name": "#ffaf95",
+      "defaultHex": "#ffaf95"
+    },
+    {
+      "name": "#ed2456",
+      "defaultHex": "#ed2456"
+    },
+    {
+      "name": "#ffd591",
+      "defaultHex": "#ffd591"
+    },
+    {
+      "name": "#008cd1",
+      "defaultHex": "#008cd1"
+    },
+    {
+      "name": "#fcd157",
+      "defaultHex": "#fcd157"
+    },
+    {
+      "name": "#9d6c3e",
+      "defaultHex": "#9d6c3e"
+    },
+    {
+      "name": "#ca9350",
+      "defaultHex": "#ca9350"
+    },
+    {
+      "name": "#4a352e",
+      "defaultHex": "#4a352e"
+    },
+    {
+      "name": "#940c45",
+      "defaultHex": "#940c45"
+    },
+    {
+      "name": "#0096c6",
+      "defaultHex": "#0096c6"
+    },
+    {
+      "name": "#0ba6de",
+      "defaultHex": "#0ba6de"
+    },
+    {
+      "name": "#0069ab",
+      "defaultHex": "#0069ab"
+    },
+    {
+      "name": "#f2f1f1",
+      "defaultHex": "#f2f1f1"
+    },
+    {
+      "name": "#9881f2",
+      "defaultHex": "#9881f2"
+    },
+    {
+      "name": "#5e53d9",
+      "defaultHex": "#5e53d9"
+    },
+    {
+      "name": "#c9acff",
+      "defaultHex": "#c9acff"
+    },
+    {
+      "name": "#7a66f4",
+      "defaultHex": "#7a66f4"
+    },
+    {
+      "name": "#ec008c",
+      "defaultHex": "#ec008c"
+    },
+    {
+      "name": "#303d8a",
+      "defaultHex": "#303d8a"
+    },
+    {
+      "name": "#f48043",
+      "defaultHex": "#f48043"
+    },
+    {
+      "name": "#083a66",
+      "defaultHex": "#083a66"
+    },
+    {
+      "name": "#2d3246",
+      "defaultHex": "#2d3246"
+    },
+    {
+      "name": "#d1ccc5",
+      "defaultHex": "#d1ccc5"
+    },
+    {
+      "name": "#b37314",
+      "defaultHex": "#b37314"
+    },
+    {
+      "name": "#e2b664",
+      "defaultHex": "#e2b664"
+    },
+    {
+      "name": "#fbebc1",
+      "defaultHex": "#fbebc1"
+    },
+    {
+      "name": "#fbf3d8",
+      "defaultHex": "#fbf3d8"
+    },
+    {
+      "name": "#252321",
+      "defaultHex": "#252321"
+    },
+    {
+      "name": "#ffcb00",
+      "defaultHex": "#ffcb00"
+    },
+    {
+      "name": "#749bbf",
+      "defaultHex": "#749bbf"
+    },
+    {
+      "name": "#d0e6fb",
+      "defaultHex": "#d0e6fb"
+    },
+    {
+      "name": "#e5f6ff",
+      "defaultHex": "#e5f6ff"
+    },
+    {
+      "name": "#faffff",
+      "defaultHex": "#faffff"
+    },
+    {
+      "name": "#aed0f0",
+      "defaultHex": "#aed0f0"
+    },
+    {
+      "name": "#6b4d3a",
+      "defaultHex": "#6b4d3a"
+    },
+    {
+      "name": "#543f34",
+      "defaultHex": "#543f34"
+    },
+    {
+      "name": "#204227",
+      "defaultHex": "#204227"
+    },
+    {
+      "name": "#f2fcff",
+      "defaultHex": "#f2fcff"
+    },
+    {
+      "name": "#fadaae",
+      "defaultHex": "#fadaae"
+    },
+    {
+      "name": "#f9d983",
+      "defaultHex": "#f9d983"
+    },
+    {
+      "name": "#631018",
+      "defaultHex": "#631018"
+    },
+    {
+      "name": "#fed859",
+      "defaultHex": "#fed859"
+    },
+    {
+      "name": "#ffb5b9",
+      "defaultHex": "#ffb5b9"
+    },
+    {
+      "name": "#ffd4d4",
+      "defaultHex": "#ffd4d4"
+    },
+    {
+      "name": "#c4144f",
+      "defaultHex": "#c4144f"
+    },
+    {
+      "name": "#486688",
+      "defaultHex": "#486688"
+    },
+    {
+      "name": "#324660",
+      "defaultHex": "#324660"
+    },
+    {
+      "name": "#eb6150",
+      "defaultHex": "#eb6150"
+    },
+    {
+      "name": "#b32929",
+      "defaultHex": "#b32929"
+    },
+    {
+      "name": "#e6f7ff",
+      "defaultHex": "#e6f7ff"
+    },
+    {
+      "name": "#263242",
+      "defaultHex": "#263242"
+    },
+    {
+      "name": "#1e2533",
+      "defaultHex": "#1e2533"
+    },
+    {
+      "name": "#dc501d",
+      "defaultHex": "#dc501d"
+    },
+    {
+      "name": "#a93616",
+      "defaultHex": "#a93616"
+    },
+    {
+      "name": "#40241a",
+      "defaultHex": "#40241a"
+    },
+    {
+      "name": "#36283a",
+      "defaultHex": "#36283a"
+    },
+    {
+      "name": "#e38f80",
+      "defaultHex": "#e38f80"
+    },
+    {
+      "name": "#c37a9e",
+      "defaultHex": "#c37a9e"
+    },
+    {
+      "name": "#fcceab",
+      "defaultHex": "#fcceab"
+    },
+    {
+      "name": "#4a2b22",
+      "defaultHex": "#4a2b22"
+    },
+    {
+      "name": "#41869f",
+      "defaultHex": "#41869f"
+    },
+    {
+      "name": "#fbc190",
+      "defaultHex": "#fbc190"
+    },
+    {
+      "name": "#e8674e",
+      "defaultHex": "#e8674e"
+    },
+    {
+      "name": "#daaf73",
+      "defaultHex": "#daaf73"
+    },
+    {
+      "name": "#f7d0b8",
+      "defaultHex": "#f7d0b8"
+    },
+    {
+      "name": "#543725",
+      "defaultHex": "#543725"
+    },
+    {
+      "name": "#f44b5e",
+      "defaultHex": "#f44b5e"
+    },
+    {
+      "name": "#fc5a6c",
+      "defaultHex": "#fc5a6c"
+    },
+    {
+      "name": "#f8af9e",
+      "defaultHex": "#f8af9e"
+    },
+    {
+      "name": "#e6988e",
+      "defaultHex": "#e6988e"
+    },
+    {
+      "name": "#cb8c73",
+      "defaultHex": "#cb8c73"
+    },
+    {
+      "name": "#bbbdbf",
+      "defaultHex": "#bbbdbf"
+    },
+    {
+      "name": "#e76048",
+      "defaultHex": "#e76048"
+    },
+    {
+      "name": "#f3cdb6",
+      "defaultHex": "#f3cdb6"
+    },
+    {
+      "name": "#646062",
+      "defaultHex": "#646062"
+    },
+    {
+      "name": "#ee9b81",
+      "defaultHex": "#ee9b81"
+    },
+    {
+      "name": "#fddac1",
+      "defaultHex": "#fddac1"
+    },
+    {
+      "name": "#302d2b",
+      "defaultHex": "#302d2b"
+    },
+    {
+      "name": "#1f263b",
+      "defaultHex": "#1f263b"
+    },
+    {
+      "name": "#b2f0ff",
+      "defaultHex": "#b2f0ff"
+    },
+    {
+      "name": "#cef5ff",
+      "defaultHex": "#cef5ff"
+    },
+    {
+      "name": "#fff3c2",
+      "defaultHex": "#fff3c2"
+    },
+    {
+      "name": "#fffbda",
+      "defaultHex": "#fffbda"
+    },
+    {
+      "name": "#e8dbff",
+      "defaultHex": "#e8dbff"
+    },
+    {
+      "name": "#f6edff",
+      "defaultHex": "#f6edff"
+    },
+    {
+      "name": "#ffcbb2",
+      "defaultHex": "#ffcbb2"
+    },
+    {
+      "name": "#f3ffcf",
+      "defaultHex": "#f3ffcf"
+    },
+    {
+      "name": "#f6ffe3",
+      "defaultHex": "#f6ffe3"
+    },
+    {
+      "name": "#ffe0ca",
+      "defaultHex": "#ffe0ca"
+    },
+    {
+      "name": "#ffe5a8",
+      "defaultHex": "#ffe5a8"
+    },
+    {
+      "name": "#d5c6ff",
+      "defaultHex": "#d5c6ff"
+    },
+    {
+      "name": "#ffb196",
+      "defaultHex": "#ffb196"
+    },
+    {
+      "name": "#ebffbd",
+      "defaultHex": "#ebffbd"
+    },
+    {
+      "name": "#124153",
+      "defaultHex": "#124153"
+    },
+    {
+      "name": "#db2638",
+      "defaultHex": "#db2638"
+    },
+    {
+      "name": "#ef415a",
+      "defaultHex": "#ef415a"
+    },
+    {
+      "name": "#10777c",
+      "defaultHex": "#10777c"
+    },
+    {
+      "name": "#26c2a3",
+      "defaultHex": "#26c2a3"
+    },
+    {
+      "name": "#62f6ca",
+      "defaultHex": "#62f6ca"
+    },
+    {
+      "name": "#d9ffbd",
+      "defaultHex": "#d9ffbd"
+    },
+    {
+      "name": "#e9eacf",
+      "defaultHex": "#e9eacf"
+    },
+    {
+      "name": "#3b0e0e",
+      "defaultHex": "#3b0e0e"
+    },
+    {
+      "name": "#9b3232",
+      "defaultHex": "#9b3232"
+    },
+    {
+      "name": "#b23838",
+      "defaultHex": "#b23838"
+    },
+    {
+      "name": "#c93f3f",
+      "defaultHex": "#c93f3f"
+    },
+    {
+      "name": "#7c2929",
+      "defaultHex": "#7c2929"
+    },
+    {
+      "name": "#420c14",
+      "defaultHex": "#420c14"
+    },
+    {
+      "name": "#572c12",
+      "defaultHex": "#572c12"
+    },
+    {
+      "name": "#2e2c29",
+      "defaultHex": "#2e2c29"
+    },
+    {
+      "name": "#666463",
+      "defaultHex": "#666463"
+    },
+    {
+      "name": "#543426",
+      "defaultHex": "#543426"
+    },
+    {
+      "name": "#fbf7ec",
+      "defaultHex": "#fbf7ec"
+    },
+    {
+      "name": "#fffef5",
+      "defaultHex": "#fffef5"
+    },
+    {
+      "name": "#072a4f",
+      "defaultHex": "#072a4f"
+    },
+    {
+      "name": "#109888",
+      "defaultHex": "#109888"
+    },
+    {
+      "name": "#09505f",
+      "defaultHex": "#09505f"
+    },
+    {
+      "name": "#073745",
+      "defaultHex": "#073745"
+    },
+    {
+      "name": "#866241",
+      "defaultHex": "#866241"
+    },
+    {
+      "name": "#997050",
+      "defaultHex": "#997050"
+    },
+    {
+      "name": "#563c24",
+      "defaultHex": "#563c24"
+    },
+    {
+      "name": "#cda98b",
+      "defaultHex": "#cda98b"
+    },
+    {
+      "name": "#bb916e",
+      "defaultHex": "#bb916e"
+    },
+    {
+      "name": "#362618",
+      "defaultHex": "#362618"
+    },
+    {
+      "name": "#5a4027",
+      "defaultHex": "#5a4027"
+    },
+    {
+      "name": "#6f6c6c",
+      "defaultHex": "#6f6c6c"
+    },
+    {
+      "name": "#a97363",
+      "defaultHex": "#a97363"
+    },
+    {
+      "name": "#6e4a3c",
+      "defaultHex": "#6e4a3c"
+    },
+    {
+      "name": "#432d25",
+      "defaultHex": "#432d25"
+    },
+    {
+      "name": "#583b30",
+      "defaultHex": "#583b30"
+    },
+    {
+      "name": "#8c5547",
+      "defaultHex": "#8c5547"
+    },
+    {
+      "name": "#a06952",
+      "defaultHex": "#a06952"
+    },
+    {
+      "name": "#bc745e",
+      "defaultHex": "#bc745e"
+    },
+    {
+      "name": "#784232",
+      "defaultHex": "#784232"
+    },
+    {
+      "name": "#925b47",
+      "defaultHex": "#925b47"
+    },
+    {
+      "name": "#f4f4f4",
+      "defaultHex": "#f4f4f4"
+    },
+    {
+      "name": "#8a3f3a",
+      "defaultHex": "#8a3f3a"
+    },
+    {
+      "name": "#6a2d2a",
+      "defaultHex": "#6a2d2a"
+    },
+    {
+      "name": "#b26d54",
+      "defaultHex": "#b26d54"
+    },
+    {
+      "name": "#d7a186",
+      "defaultHex": "#d7a186"
+    },
+    {
+      "name": "#b15043",
+      "defaultHex": "#b15043"
+    },
+    {
+      "name": "#501d0b",
+      "defaultHex": "#501d0b"
+    },
+    {
+      "name": "#37170b",
+      "defaultHex": "#37170b"
+    },
+    {
+      "name": "#5e5e5e",
+      "defaultHex": "#5e5e5e"
+    },
+    {
+      "name": "#4c4c4c",
+      "defaultHex": "#4c4c4c"
+    },
+    {
+      "name": "#303030",
+      "defaultHex": "#303030"
+    },
+    {
+      "name": "#eabaa2",
+      "defaultHex": "#eabaa2"
+    },
+    {
+      "name": "#dc9472",
+      "defaultHex": "#dc9472"
+    },
+    {
+      "name": "#f9dfc6",
+      "defaultHex": "#f9dfc6"
+    },
+    {
+      "name": "#f18c95",
+      "defaultHex": "#f18c95"
+    },
+    {
+      "name": "#4b4746",
+      "defaultHex": "#4b4746"
+    },
+    {
+      "name": "#e5858d",
+      "defaultHex": "#e5858d"
+    },
+    {
+      "name": "#7c7776",
+      "defaultHex": "#7c7776"
+    },
+    {
+      "name": "#e0a28b",
+      "defaultHex": "#e0a28b"
+    },
+    {
+      "name": "#d88f71",
+      "defaultHex": "#d88f71"
+    },
+    {
+      "name": "#625e5b",
+      "defaultHex": "#625e5b"
+    },
+    {
+      "name": "#f5c1a7",
+      "defaultHex": "#f5c1a7"
+    },
+    {
+      "name": "#dc847b",
+      "defaultHex": "#dc847b"
+    },
+    {
+      "name": "#e79779",
+      "defaultHex": "#e79779"
+    },
+    {
+      "name": "#9e7e6d",
+      "defaultHex": "#9e7e6d"
+    },
+    {
+      "name": "#523215",
+      "defaultHex": "#523215"
+    },
+    {
+      "name": "#1e1e1e",
+      "defaultHex": "#1e1e1e"
+    },
+    {
+      "name": "#e3ad99",
+      "defaultHex": "#e3ad99"
+    },
+    {
+      "name": "#624d41",
+      "defaultHex": "#624d41"
+    },
+    {
+      "name": "#45372f",
+      "defaultHex": "#45372f"
+    },
+    {
+      "name": "#c17258",
+      "defaultHex": "#c17258"
+    },
+    {
+      "name": "#f5b39c",
+      "defaultHex": "#f5b39c"
+    },
+    {
+      "name": "#c08572",
+      "defaultHex": "#c08572"
+    },
+    {
+      "name": "#e09b84",
+      "defaultHex": "#e09b84"
+    },
+    {
+      "name": "#5c4841",
+      "defaultHex": "#5c4841"
+    },
+    {
+      "name": "#e98d91",
+      "defaultHex": "#e98d91"
+    },
+    {
+      "name": "#d07175",
+      "defaultHex": "#d07175"
+    },
+    {
+      "name": "#d98b71",
+      "defaultHex": "#d98b71"
+    },
+    {
+      "name": "#625555",
+      "defaultHex": "#625555"
+    },
+    {
+      "name": "#3c3636",
+      "defaultHex": "#3c3636"
+    },
+    {
+      "name": "#dca289",
+      "defaultHex": "#dca289"
+    },
+    {
+      "name": "#fcd9c0",
+      "defaultHex": "#fcd9c0"
+    },
+    {
+      "name": "#eab39c",
+      "defaultHex": "#eab39c"
+    },
+    {
+      "name": "#5e4d4d",
+      "defaultHex": "#5e4d4d"
+    },
+    {
+      "name": "#7f6968",
+      "defaultHex": "#7f6968"
+    },
+    {
+      "name": "#9d6d62",
+      "defaultHex": "#9d6d62"
+    },
+    {
+      "name": "#6d96a9",
+      "defaultHex": "#6d96a9"
+    },
+    {
+      "name": "#f19c84",
+      "defaultHex": "#f19c84"
+    },
+    {
+      "name": "#736868",
+      "defaultHex": "#736868"
+    },
+    {
+      "name": "#eca595",
+      "defaultHex": "#eca595"
+    },
+    {
+      "name": "#d9927a",
+      "defaultHex": "#d9927a"
+    },
+    {
+      "name": "#896453",
+      "defaultHex": "#896453"
+    },
+    {
+      "name": "#654638",
+      "defaultHex": "#654638"
+    },
+    {
+      "name": "#eec1af",
+      "defaultHex": "#eec1af"
+    },
+    {
+      "name": "#e2a18b",
+      "defaultHex": "#e2a18b"
+    },
+    {
+      "name": "#644537",
+      "defaultHex": "#644537"
+    },
+    {
+      "name": "#f2ccba",
+      "defaultHex": "#f2ccba"
+    },
+    {
+      "name": "#df978b",
+      "defaultHex": "#df978b"
+    },
+    {
+      "name": "#ca8075",
+      "defaultHex": "#ca8075"
+    },
+    {
+      "name": "#7a594a",
+      "defaultHex": "#7a594a"
+    },
+    {
+      "name": "#cd8a6d",
+      "defaultHex": "#cd8a6d"
+    },
+    {
+      "name": "#585551",
+      "defaultHex": "#585551"
+    },
+    {
+      "name": "#413e3b",
+      "defaultHex": "#413e3b"
+    },
+    {
+      "name": "#fbcdaa",
+      "defaultHex": "#fbcdaa"
+    },
+    {
+      "name": "#907a6b",
+      "defaultHex": "#907a6b"
+    },
+    {
+      "name": "#65615e",
+      "defaultHex": "#65615e"
+    },
+    {
+      "name": "#e89c84",
+      "defaultHex": "#e89c84"
+    },
+    {
+      "name": "#edb08d",
+      "defaultHex": "#edb08d"
+    },
+    {
+      "name": "#7a5545",
+      "defaultHex": "#7a5545"
+    },
+    {
+      "name": "#484542",
+      "defaultHex": "#484542"
+    },
+    {
+      "name": "#494749",
+      "defaultHex": "#494749"
+    },
+    {
+      "name": "#373437",
+      "defaultHex": "#373437"
+    },
+    {
+      "name": "#d8a287",
+      "defaultHex": "#d8a287"
+    },
+    {
+      "name": "#b77967",
+      "defaultHex": "#b77967"
+    },
+    {
+      "name": "#af7e64",
+      "defaultHex": "#af7e64"
+    },
+    {
+      "name": "#9a4043",
+      "defaultHex": "#9a4043"
+    },
+    {
+      "name": "#e69d7c",
+      "defaultHex": "#e69d7c"
+    },
+    {
+      "name": "#755950",
+      "defaultHex": "#755950"
+    },
+    {
+      "name": "#403836",
+      "defaultHex": "#403836"
+    },
+    {
+      "name": "#f3ab90",
+      "defaultHex": "#f3ab90"
+    },
+    {
+      "name": "#f4af8a",
+      "defaultHex": "#f4af8a"
+    },
+    {
+      "name": "#816a62",
+      "defaultHex": "#816a62"
+    },
+    {
+      "name": "#d8686c",
+      "defaultHex": "#d8686c"
+    },
+    {
+      "name": "#5b514e",
+      "defaultHex": "#5b514e"
+    },
+    {
+      "name": "#37302e",
+      "defaultHex": "#37302e"
+    },
+    {
+      "name": "#b46754",
+      "defaultHex": "#b46754"
+    },
+    {
+      "name": "#414141",
+      "defaultHex": "#414141"
+    },
+    {
+      "name": "#2c2c2c",
+      "defaultHex": "#2c2c2c"
+    },
+    {
+      "name": "#c88064",
+      "defaultHex": "#c88064"
+    },
+    {
+      "name": "#a6604d",
+      "defaultHex": "#a6604d"
+    },
+    {
+      "name": "#bb6e59",
+      "defaultHex": "#bb6e59"
+    },
+    {
+      "name": "#854434",
+      "defaultHex": "#854434"
+    },
+    {
+      "name": "#e19075",
+      "defaultHex": "#e19075"
+    },
+    {
+      "name": "#974d3b",
+      "defaultHex": "#974d3b"
+    },
+    {
+      "name": "#e5e3e2",
+      "defaultHex": "#e5e3e2"
+    },
+    {
+      "name": "#86533e",
+      "defaultHex": "#86533e"
+    },
+    {
+      "name": "#95634e",
+      "defaultHex": "#95634e"
+    },
+    {
+      "name": "#a9745d",
+      "defaultHex": "#a9745d"
+    },
+    {
+      "name": "#955c45",
+      "defaultHex": "#955c45"
+    },
+    {
+      "name": "#633d2e",
+      "defaultHex": "#633d2e"
+    },
+    {
+      "name": "#815340",
+      "defaultHex": "#815340"
+    },
+    {
+      "name": "#a36064",
+      "defaultHex": "#a36064"
+    },
+    {
+      "name": "#939e70",
+      "defaultHex": "#939e70"
+    },
+    {
+      "name": "#6a7838",
+      "defaultHex": "#6a7838"
+    },
+    {
+      "name": "#303834",
+      "defaultHex": "#303834"
+    },
+    {
+      "name": "#724735",
+      "defaultHex": "#724735"
+    },
+    {
+      "name": "#a08980",
+      "defaultHex": "#a08980"
+    },
+    {
+      "name": "#6d5951",
+      "defaultHex": "#6d5951"
+    },
+    {
+      "name": "#f4ab8b",
+      "defaultHex": "#f4ab8b"
+    },
+    {
+      "name": "#de8964",
+      "defaultHex": "#de8964"
+    },
+    {
+      "name": "#e7a082",
+      "defaultHex": "#e7a082"
+    },
+    {
+      "name": "#41859e",
+      "defaultHex": "#41859e"
+    },
+    {
+      "name": "#e79a7c",
+      "defaultHex": "#e79a7c"
+    },
+    {
+      "name": "#b6b1af",
+      "defaultHex": "#b6b1af"
+    },
+    {
+      "name": "#969190",
+      "defaultHex": "#969190"
+    },
+    {
+      "name": "#fac2a0",
+      "defaultHex": "#fac2a0"
+    },
+    {
+      "name": "#974e32",
+      "defaultHex": "#974e32"
+    },
+    {
+      "name": "#fc9a96",
+      "defaultHex": "#fc9a96"
+    },
+    {
+      "name": "#e47c78",
+      "defaultHex": "#e47c78"
+    },
+    {
+      "name": "#0381b8",
+      "defaultHex": "#0381b8"
+    },
+    {
+      "name": "#ffc70a",
+      "defaultHex": "#ffc70a"
+    },
+    {
+      "name": "#d9a80a",
+      "defaultHex": "#d9a80a"
+    },
+    {
+      "name": "#ffd13b",
+      "defaultHex": "#ffd13b"
+    },
+    {
+      "name": "#1c3724",
+      "defaultHex": "#1c3724"
+    },
+    {
+      "name": "#dbfbff",
+      "defaultHex": "#dbfbff"
+    },
+    {
+      "name": "#1e2122",
+      "defaultHex": "#1e2122"
+    },
+    {
+      "name": "#898785",
+      "defaultHex": "#898785"
+    },
+    {
+      "name": "#b88c69",
+      "defaultHex": "#b88c69"
+    },
+    {
+      "name": "#53636a",
+      "defaultHex": "#53636a"
+    },
+    {
+      "name": "#3e5058",
+      "defaultHex": "#3e5058"
+    },
+    {
+      "name": "#f0f0f1",
+      "defaultHex": "#f0f0f1"
+    },
+    {
+      "name": "#a37148",
+      "defaultHex": "#a37148"
+    },
+    {
+      "name": "#976f50",
+      "defaultHex": "#976f50"
+    },
+    {
+      "name": "#b38d6e",
+      "defaultHex": "#b38d6e"
+    },
+    {
+      "name": "#6f5136",
+      "defaultHex": "#6f5136"
+    },
+    {
+      "name": "#7f4ee2",
+      "defaultHex": "#7f4ee2"
+    },
+    {
+      "name": "#0077ff",
+      "defaultHex": "#0077ff"
+    },
+    {
+      "name": "#62a043",
+      "defaultHex": "#62a043"
+    },
+    {
+      "name": "#ffce00",
+      "defaultHex": "#ffce00"
+    },
+    {
+      "name": "#0a1523",
+      "defaultHex": "#0a1523"
+    },
+    {
+      "name": "#25f4ee",
+      "defaultHex": "#25f4ee"
+    },
+    {
+      "name": "#fe2c55",
+      "defaultHex": "#fe2c55"
+    },
+    {
+      "name": "#fffc00",
+      "defaultHex": "#fffc00"
+    },
+    {
+      "name": "#1ed760",
+      "defaultHex": "#1ed760"
+    },
+    {
+      "name": "#0077b5",
+      "defaultHex": "#0077b5"
+    },
+    {
+      "name": "#2babee",
+      "defaultHex": "#2babee"
+    },
+    {
+      "name": "#5865f2",
+      "defaultHex": "#5865f2"
+    },
+    {
+      "name": "#9146ff",
+      "defaultHex": "#9146ff"
+    },
+    {
+      "name": "#ff4500",
+      "defaultHex": "#ff4500"
+    },
+    {
+      "name": "#b1060f",
+      "defaultHex": "#b1060f"
+    },
+    {
+      "name": "#e50914",
+      "defaultHex": "#e50914"
+    },
+    {
+      "name": "#f73301",
+      "defaultHex": "#f73301"
+    },
+    {
+      "name": "#4285f4",
+      "defaultHex": "#4285f4"
+    },
+    {
+      "name": "#34a853",
+      "defaultHex": "#34a853"
+    },
+    {
+      "name": "#fbbc05",
+      "defaultHex": "#fbbc05"
+    },
+    {
+      "name": "#ea4335",
+      "defaultHex": "#ea4335"
+    },
+    {
+      "name": "#fbbc04",
+      "defaultHex": "#fbbc04"
+    },
+    {
+      "name": "#0acf83",
+      "defaultHex": "#0acf83"
+    },
+    {
+      "name": "#a259ff",
+      "defaultHex": "#a259ff"
+    },
+    {
+      "name": "#f24e1e",
+      "defaultHex": "#f24e1e"
+    },
+    {
+      "name": "#ff7262",
+      "defaultHex": "#ff7262"
+    },
+    {
+      "name": "#1abcfe",
+      "defaultHex": "#1abcfe"
+    },
+    {
+      "name": "#e01e5a",
+      "defaultHex": "#e01e5a"
+    },
+    {
+      "name": "#36c5f0",
+      "defaultHex": "#36c5f0"
+    },
+    {
+      "name": "#2eb67d",
+      "defaultHex": "#2eb67d"
+    },
+    {
+      "name": "#ecb22e",
+      "defaultHex": "#ecb22e"
+    },
+    {
+      "name": "#50c800",
+      "defaultHex": "#50c800"
+    },
+    {
+      "name": "#8ee000",
+      "defaultHex": "#8ee000"
+    },
+    {
+      "name": "#4b4b4b",
+      "defaultHex": "#4b4b4b"
+    },
+    {
+      "name": "#ffe747",
+      "defaultHex": "#ffe747"
+    },
+    {
+      "name": "#1a73e8",
+      "defaultHex": "#1a73e8"
+    },
+    {
+      "name": "#f4f2f3",
+      "defaultHex": "#f4f2f3"
+    },
+    {
+      "name": "#ff5150",
+      "defaultHex": "#ff5150"
+    },
+    {
+      "name": "#1c1810",
+      "defaultHex": "#1c1810"
+    },
+    {
+      "name": "#575e37",
+      "defaultHex": "#575e37"
+    },
+    {
+      "name": "#d39e6c",
+      "defaultHex": "#d39e6c"
+    },
+    {
+      "name": "#a66458",
+      "defaultHex": "#a66458"
+    },
+    {
+      "name": "#7b696b",
+      "defaultHex": "#7b696b"
+    },
+    {
+      "name": "#4d4243",
+      "defaultHex": "#4d4243"
+    },
+    {
+      "name": "#fdccb2",
+      "defaultHex": "#fdccb2"
+    },
+    {
+      "name": "#382c24",
+      "defaultHex": "#382c24"
+    },
+    {
+      "name": "#ffdcca",
+      "defaultHex": "#ffdcca"
+    },
+    {
+      "name": "#37573e",
+      "defaultHex": "#37573e"
+    },
+    {
+      "name": "#95b776",
+      "defaultHex": "#95b776"
+    },
+    {
+      "name": "#b3d296",
+      "defaultHex": "#b3d296"
+    },
+    {
+      "name": "#595756",
+      "defaultHex": "#595756"
+    },
+    {
+      "name": "#a1a0a0",
+      "defaultHex": "#a1a0a0"
     }
   ]
 }
