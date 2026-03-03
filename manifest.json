@@ -2,7 +2,7 @@
   "name": "Chess Pieces",
   "version": "1.0.0",
   "artboardSize": 90,
-  "iconCount": 654,
+  "iconCount": 653,
   "icons": [
     "calendar-puzzle",
     "dragon-eye",
@@ -25,7 +25,6 @@
     "tiger-claw",
     "tiger-face",
     "tiger-scratch",
-    "Pieces",
     "fog-of-war",
     "clash-barbarian",
     "clash-crown",
