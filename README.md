@@ -1,6 +1,6 @@
 # Chess Pieces
 
-653 icons · 90×90 · 47 categories
+653 icons · 90×90 · 46 categories
 
 ## Preview
 
