@@ -2,7 +2,7 @@
   "name": "Chess Pieces",
   "version": "1.0.0",
   "artboardSize": 90,
-  "iconCount": 655,
+  "iconCount": 654,
   "icons": [
     "calendar-puzzle",
     "dragon-eye",
@@ -657,8 +657,7 @@
     "skill-remove-defender",
     "skill-trap",
     "skill-discovered",
-    "king-check",
-    "icon-impotable"
+    "king-check"
   ],
   "colorMode": "palette",
   "palette": [

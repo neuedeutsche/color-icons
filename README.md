@@ -1,6 +1,6 @@
 # Chess Pieces
 
-655 icons · 90×90 · 51 categories
+654 icons · 90×90 · 49 categories
 
 ## Preview
 
@@ -13,7 +13,7 @@
 | <img src="icons/computer-chess-champs.svg" width="48" alt="computer-chess-champs"> | <img src="icons/ethereal.svg" width="48" alt="ethereal"> | <img src="icons/fire.svg" width="48" alt="fire"> | <img src="icons/houdini.svg" width="48" alt="houdini"> | <img src="icons/komodo.svg" width="48" alt="komodo"> | <img src="icons/lc0.svg" width="48" alt="lc0"> | <img src="icons/leelenstein.svg" width="48" alt="leelenstein"> | <img src="icons/stockfish.svg" width="48" alt="stockfish"> |
 | <img src="icons/torch.svg" width="48" alt="torch"> | <img src="icons/duolingo-angry.svg" width="48" alt="duolingo-angry"> | <img src="icons/duolingo-chill.svg" width="48" alt="duolingo-chill"> | <img src="icons/duolingo-surprised.svg" width="48" alt="duolingo-surprised"> | <img src="icons/emoji-angry.svg" width="48" alt="emoji-angry"> | <img src="icons/emoji-bitcoin.svg" width="48" alt="emoji-bitcoin"> | <img src="icons/emoji-blush.svg" width="48" alt="emoji-blush"> | <img src="icons/emoji-clap.svg" width="48" alt="emoji-clap"> |
 
-*Showing 48 of 655 icons. Browse [`icons/`](./icons) for the full set.*
+*Showing 48 of 654 icons. Browse [`icons/`](./icons) for the full set.*
 
 ## Usage
 
