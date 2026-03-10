@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "commerce"
+  "category": "commerce",
+  "document": {
+    "paths": []
+  }
 }

@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "bots"
+  "category": "bots",
+  "document": {
+    "paths": []
+  }
 }

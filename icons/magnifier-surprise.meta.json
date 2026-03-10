@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "magnifier"
+  "category": "magnifier",
+  "document": {
+    "paths": []
+  }
 }
