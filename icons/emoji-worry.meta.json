@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "emoji"
+  "category": "emoji",
+  "document": {
+    "paths": []
+  }
 }

@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "shields"
+  "category": "shields",
+  "document": {
+    "paths": []
+  }
 }
