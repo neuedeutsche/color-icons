@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "capturing"
+  "category": "capturing",
+  "document": {
+    "paths": []
+  }
 }

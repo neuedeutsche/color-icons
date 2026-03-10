@@ -2,5 +2,8 @@
   "tags": [],
   "status": "draft",
   "category": "Shields",
-  "conceptId": "IC-085007"
+  "conceptId": "IC-085007",
+  "document": {
+    "paths": []
+  }
 }
