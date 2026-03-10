@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "broadcast"
+  "category": "broadcast",
+  "document": {
+    "paths": []
+  }
 }

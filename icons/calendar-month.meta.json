@@ -2,5 +2,8 @@
   "tags": [],
   "status": "draft",
   "category": "calendar",
-  "conceptId": "IC-040114"
+  "conceptId": "IC-040114",
+  "document": {
+    "paths": []
+  }
 }

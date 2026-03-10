@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "game"
+  "category": "game",
+  "document": {
+    "paths": []
+  }
 }

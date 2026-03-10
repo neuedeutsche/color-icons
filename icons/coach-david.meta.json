@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "coach"
+  "category": "coach",
+  "document": {
+    "paths": []
+  }
 }

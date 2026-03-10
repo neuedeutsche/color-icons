@@ -2,5 +2,8 @@
   "tags": [],
   "status": "draft",
   "category": "device",
-  "conceptId": "IC-072396"
+  "conceptId": "IC-072396",
+  "document": {
+    "paths": []
+  }
 }

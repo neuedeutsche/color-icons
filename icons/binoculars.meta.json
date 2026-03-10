@@ -2,5 +2,3729 @@
   "tags": [],
   "status": "draft",
   "category": "broadcast",
-  "conceptId": "IC-155027"
+  "conceptId": "IC-155027",
+  "document": {
+    "paths": [
+      {
+        "id": "path_0",
+        "contour": {
+          "id": "c_path_0",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 41.0602,
+              "y": 12.01,
+              "type": "offcurve"
+            },
+            {
+              "x": 37.4002,
+              "y": 8.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.9002,
+              "y": 8.5,
+              "type": "curve"
+            },
+            {
+              "x": 28.4002,
+              "y": 8.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.4502,
+              "y": 12.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.4502,
+              "y": 16.95,
+              "type": "curve"
+            },
+            {
+              "x": 24.4502,
+              "y": 21.62,
+              "type": "offcurve"
+            },
+            {
+              "x": 28.2302,
+              "y": 25.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.9002,
+              "y": 25.4,
+              "type": "curve"
+            },
+            {
+              "x": 33.2902,
+              "y": 25.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 33.6702,
+              "y": 25.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.0402,
+              "y": 25.31,
+              "type": "curve"
+            },
+            {
+              "x": 41.3002,
+              "y": 39.47,
+              "type": "line"
+            },
+            {
+              "x": 41.3002,
+              "y": 39.53,
+              "type": "line"
+            },
+            {
+              "x": 41.3302,
+              "y": 39.5,
+              "type": "line"
+            },
+            {
+              "x": 41.3602,
+              "y": 39.47,
+              "type": "line"
+            },
+            {
+              "x": 41.3302,
+              "y": 16.43,
+              "type": "line"
+            },
+            {
+              "x": 41.3302,
+              "y": 16.44,
+              "type": "line"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_0",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 41.0602,
+                "y": 12.01,
+                "type": "offcurve"
+              },
+              {
+                "x": 37.4002,
+                "y": 8.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.9002,
+                "y": 8.5,
+                "type": "curve"
+              },
+              {
+                "x": 28.4002,
+                "y": 8.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.4502,
+                "y": 12.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.4502,
+                "y": 16.95,
+                "type": "curve"
+              },
+              {
+                "x": 24.4502,
+                "y": 21.62,
+                "type": "offcurve"
+              },
+              {
+                "x": 28.2302,
+                "y": 25.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.9002,
+                "y": 25.4,
+                "type": "curve"
+              },
+              {
+                "x": 33.2902,
+                "y": 25.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 33.6702,
+                "y": 25.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.0402,
+                "y": 25.31,
+                "type": "curve"
+              },
+              {
+                "x": 41.3002,
+                "y": 39.47,
+                "type": "line"
+              },
+              {
+                "x": 41.3002,
+                "y": 39.53,
+                "type": "line"
+              },
+              {
+                "x": 41.3302,
+                "y": 39.5,
+                "type": "line"
+              },
+              {
+                "x": 41.3602,
+                "y": 39.47,
+                "type": "line"
+              },
+              {
+                "x": 41.3302,
+                "y": 16.43,
+                "type": "line"
+              },
+              {
+                "x": 41.3302,
+                "y": 16.44,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#8B8987",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_1",
+        "contour": {
+          "id": "c_path_1",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 48.9397,
+              "y": 12.01,
+              "type": "offcurve"
+            },
+            {
+              "x": 52.5997,
+              "y": 8.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 57.0997,
+              "y": 8.5,
+              "type": "curve"
+            },
+            {
+              "x": 61.7697,
+              "y": 8.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.5497,
+              "y": 12.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.5497,
+              "y": 16.95,
+              "type": "curve"
+            },
+            {
+              "x": 65.5497,
+              "y": 21.62,
+              "type": "offcurve"
+            },
+            {
+              "x": 61.7697,
+              "y": 25.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 57.0997,
+              "y": 25.4,
+              "type": "curve"
+            },
+            {
+              "x": 56.7097,
+              "y": 25.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 56.3296,
+              "y": 25.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.9596,
+              "y": 25.31,
+              "type": "curve"
+            },
+            {
+              "x": 48.6996,
+              "y": 39.47,
+              "type": "line"
+            },
+            {
+              "x": 48.6996,
+              "y": 39.53,
+              "type": "line"
+            },
+            {
+              "x": 48.6697,
+              "y": 39.5,
+              "type": "line"
+            },
+            {
+              "x": 48.6396,
+              "y": 39.47,
+              "type": "line"
+            },
+            {
+              "x": 48.6697,
+              "y": 16.43,
+              "type": "line"
+            },
+            {
+              "x": 48.6697,
+              "y": 16.44,
+              "type": "line"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_1",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 48.9397,
+                "y": 12.01,
+                "type": "offcurve"
+              },
+              {
+                "x": 52.5997,
+                "y": 8.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 57.0997,
+                "y": 8.5,
+                "type": "curve"
+              },
+              {
+                "x": 61.7697,
+                "y": 8.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.5497,
+                "y": 12.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.5497,
+                "y": 16.95,
+                "type": "curve"
+              },
+              {
+                "x": 65.5497,
+                "y": 21.62,
+                "type": "offcurve"
+              },
+              {
+                "x": 61.7697,
+                "y": 25.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 57.0997,
+                "y": 25.4,
+                "type": "curve"
+              },
+              {
+                "x": 56.7097,
+                "y": 25.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 56.3296,
+                "y": 25.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.9596,
+                "y": 25.31,
+                "type": "curve"
+              },
+              {
+                "x": 48.6996,
+                "y": 39.47,
+                "type": "line"
+              },
+              {
+                "x": 48.6996,
+                "y": 39.53,
+                "type": "line"
+              },
+              {
+                "x": 48.6697,
+                "y": 39.5,
+                "type": "line"
+              },
+              {
+                "x": 48.6396,
+                "y": 39.47,
+                "type": "line"
+              },
+              {
+                "x": 48.6697,
+                "y": 16.43,
+                "type": "line"
+              },
+              {
+                "x": 48.6697,
+                "y": 16.44,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#8B8987",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_2",
+        "contour": {
+          "id": "c_path_2",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 39.76,
+              "y": 20.5101,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.8096,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.0896,
+              "y": 14.3601,
+              "type": "curve"
+            },
+            {
+              "x": 22.2396,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 17.9596,
+              "y": 16.7801,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.3896,
+              "y": 20.4801,
+              "type": "curve"
+            },
+            {
+              "x": 1.45996,
+              "y": 55,
+              "type": "line"
+            },
+            {
+              "x": 1.45996,
+              "y": 55,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.3737,
+              "y": 58.0561,
+              "type": "offcurve"
+            },
+            {
+              "x": 40,
+              "y": 62.503,
+              "type": "curve"
+            },
+            {
+              "x": 40,
+              "y": 28.1701,
+              "type": "line"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_2",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 39.76,
+                "y": 20.5101,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.8096,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.0896,
+                "y": 14.3601,
+                "type": "curve"
+              },
+              {
+                "x": 22.2396,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 17.9596,
+                "y": 16.7801,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.3896,
+                "y": 20.4801,
+                "type": "curve"
+              },
+              {
+                "x": 1.45996,
+                "y": 55,
+                "type": "line"
+              },
+              {
+                "x": 1.45996,
+                "y": 55,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.3737,
+                "y": 58.0561,
+                "type": "offcurve"
+              },
+              {
+                "x": 40,
+                "y": 62.503,
+                "type": "curve"
+              },
+              {
+                "x": 40,
+                "y": 28.1701,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#BEBDB9",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_3",
+        "contour": {
+          "id": "c_path_3",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 30.9137,
+              "y": 14.3602,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.0574,
+              "y": 15.8693,
+              "type": "offcurve"
+            },
+            {
+              "x": 36.2864,
+              "y": 18.323,
+              "type": "curve"
+            },
+            {
+              "x": 34.421,
+              "y": 16.4655,
+              "type": "offcurve"
+            },
+            {
+              "x": 31.925,
+              "y": 15.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 28.8264,
+              "y": 15.3601,
+              "type": "curve"
+            },
+            {
+              "x": 24.2271,
+              "y": 15.3603,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.1679,
+              "y": 17.7878,
+              "type": "offcurve"
+            },
+            {
+              "x": 17.7307,
+              "y": 21.4998,
+              "type": "curve"
+            },
+            {
+              "x": 5.63013,
+              "y": 52.7273,
+              "type": "line"
+            },
+            {
+              "x": 5.69343,
+              "y": 52.7431,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.2414,
+              "y": 56.8716,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.5149,
+              "y": 60.8513,
+              "type": "curve"
+            },
+            {
+              "x": 21.1001,
+              "y": 57.3176,
+              "type": "offcurve"
+            },
+            {
+              "x": 1.46021,
+              "y": 54.9998,
+              "type": "offcurve"
+            },
+            {
+              "x": 1.46021,
+              "y": 54.9998,
+              "type": "curve"
+            },
+            {
+              "x": 15.3899,
+              "y": 20.4802,
+              "type": "line"
+            },
+            {
+              "x": 17.9599,
+              "y": 16.7802,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.2401,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.0901,
+              "y": 14.3601,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_3",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 30.9137,
+                "y": 14.3602,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.0574,
+                "y": 15.8693,
+                "type": "offcurve"
+              },
+              {
+                "x": 36.2864,
+                "y": 18.323,
+                "type": "curve"
+              },
+              {
+                "x": 34.421,
+                "y": 16.4655,
+                "type": "offcurve"
+              },
+              {
+                "x": 31.925,
+                "y": 15.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 28.8264,
+                "y": 15.3601,
+                "type": "curve"
+              },
+              {
+                "x": 24.2271,
+                "y": 15.3603,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.1679,
+                "y": 17.7878,
+                "type": "offcurve"
+              },
+              {
+                "x": 17.7307,
+                "y": 21.4998,
+                "type": "curve"
+              },
+              {
+                "x": 5.63013,
+                "y": 52.7273,
+                "type": "line"
+              },
+              {
+                "x": 5.69343,
+                "y": 52.7431,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.2414,
+                "y": 56.8716,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.5149,
+                "y": 60.8513,
+                "type": "curve"
+              },
+              {
+                "x": 21.1001,
+                "y": 57.3176,
+                "type": "offcurve"
+              },
+              {
+                "x": 1.46021,
+                "y": 54.9998,
+                "type": "offcurve"
+              },
+              {
+                "x": 1.46021,
+                "y": 54.9998,
+                "type": "curve"
+              },
+              {
+                "x": 15.3899,
+                "y": 20.4802,
+                "type": "line"
+              },
+              {
+                "x": 17.9599,
+                "y": 16.7802,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.2401,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.0901,
+                "y": 14.3601,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_4",
+        "contour": {
+          "id": "c_path_4",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 50.24,
+              "y": 20.5101,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.1904,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.9104,
+              "y": 14.3601,
+              "type": "curve"
+            },
+            {
+              "x": 67.7604,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 72.0404,
+              "y": 16.7801,
+              "type": "offcurve"
+            },
+            {
+              "x": 74.6104,
+              "y": 20.4801,
+              "type": "curve"
+            },
+            {
+              "x": 88.54,
+              "y": 55,
+              "type": "line"
+            },
+            {
+              "x": 88.54,
+              "y": 55,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.6263,
+              "y": 58.0561,
+              "type": "offcurve"
+            },
+            {
+              "x": 50,
+              "y": 62.503,
+              "type": "curve"
+            },
+            {
+              "x": 50,
+              "y": 28.1701,
+              "type": "line"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_4",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 50.24,
+                "y": 20.5101,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.1904,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.9104,
+                "y": 14.3601,
+                "type": "curve"
+              },
+              {
+                "x": 67.7604,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 72.0404,
+                "y": 16.7801,
+                "type": "offcurve"
+              },
+              {
+                "x": 74.6104,
+                "y": 20.4801,
+                "type": "curve"
+              },
+              {
+                "x": 88.54,
+                "y": 55,
+                "type": "line"
+              },
+              {
+                "x": 88.54,
+                "y": 55,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.6263,
+                "y": 58.0561,
+                "type": "offcurve"
+              },
+              {
+                "x": 50,
+                "y": 62.503,
+                "type": "curve"
+              },
+              {
+                "x": 50,
+                "y": 28.1701,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#BEBDB9",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_5",
+        "contour": {
+          "id": "c_path_5",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 59.0863,
+              "y": 14.3602,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.9426,
+              "y": 15.8693,
+              "type": "offcurve"
+            },
+            {
+              "x": 53.7136,
+              "y": 18.323,
+              "type": "curve"
+            },
+            {
+              "x": 55.579,
+              "y": 16.4655,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.075,
+              "y": 15.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 61.1736,
+              "y": 15.3601,
+              "type": "curve"
+            },
+            {
+              "x": 65.7729,
+              "y": 15.3603,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.8321,
+              "y": 17.7878,
+              "type": "offcurve"
+            },
+            {
+              "x": 72.2693,
+              "y": 21.4998,
+              "type": "curve"
+            },
+            {
+              "x": 84.3699,
+              "y": 52.7273,
+              "type": "line"
+            },
+            {
+              "x": 84.3066,
+              "y": 52.7431,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.7586,
+              "y": 56.8716,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.4851,
+              "y": 60.8513,
+              "type": "curve"
+            },
+            {
+              "x": 68.8999,
+              "y": 57.3176,
+              "type": "offcurve"
+            },
+            {
+              "x": 88.5398,
+              "y": 54.9998,
+              "type": "offcurve"
+            },
+            {
+              "x": 88.5398,
+              "y": 54.9998,
+              "type": "curve"
+            },
+            {
+              "x": 74.6101,
+              "y": 20.4802,
+              "type": "line"
+            },
+            {
+              "x": 72.0401,
+              "y": 16.7802,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.7599,
+              "y": 14.3601,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.9099,
+              "y": 14.3601,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_5",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 59.0863,
+                "y": 14.3602,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.9426,
+                "y": 15.8693,
+                "type": "offcurve"
+              },
+              {
+                "x": 53.7136,
+                "y": 18.323,
+                "type": "curve"
+              },
+              {
+                "x": 55.579,
+                "y": 16.4655,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.075,
+                "y": 15.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 61.1736,
+                "y": 15.3601,
+                "type": "curve"
+              },
+              {
+                "x": 65.7729,
+                "y": 15.3603,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.8321,
+                "y": 17.7878,
+                "type": "offcurve"
+              },
+              {
+                "x": 72.2693,
+                "y": 21.4998,
+                "type": "curve"
+              },
+              {
+                "x": 84.3699,
+                "y": 52.7273,
+                "type": "line"
+              },
+              {
+                "x": 84.3066,
+                "y": 52.7431,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.7586,
+                "y": 56.8716,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.4851,
+                "y": 60.8513,
+                "type": "curve"
+              },
+              {
+                "x": 68.8999,
+                "y": 57.3176,
+                "type": "offcurve"
+              },
+              {
+                "x": 88.5398,
+                "y": 54.9998,
+                "type": "offcurve"
+              },
+              {
+                "x": 88.5398,
+                "y": 54.9998,
+                "type": "curve"
+              },
+              {
+                "x": 74.6101,
+                "y": 20.4802,
+                "type": "line"
+              },
+              {
+                "x": 72.0401,
+                "y": 16.7802,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.7599,
+                "y": 14.3601,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.9099,
+                "y": 14.3601,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_6",
+        "contour": {
+          "id": "c_path_6",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 42.1348,
+              "y": 17.51,
+              "type": "offcurve"
+            },
+            {
+              "x": 39.7855,
+              "y": 19.6338,
+              "type": "offcurve"
+            },
+            {
+              "x": 39.5035,
+              "y": 22.4245,
+              "type": "curve"
+            },
+            {
+              "x": 38.0516,
+              "y": 36.7909,
+              "type": "line"
+            },
+            {
+              "x": 37.5908,
+              "y": 41.3502,
+              "type": "offcurve"
+            },
+            {
+              "x": 33.7527,
+              "y": 44.82,
+              "type": "offcurve"
+            },
+            {
+              "x": 29.1702,
+              "y": 44.82,
+              "type": "curve"
+            },
+            {
+              "x": 29.1702,
+              "y": 63.82,
+              "type": "line"
+            },
+            {
+              "x": 41,
+              "y": 63.82,
+              "type": "line"
+            },
+            {
+              "x": 41,
+              "y": 57.82,
+              "type": "line"
+            },
+            {
+              "x": 43.6001,
+              "y": 58.4766,
+              "type": "offcurve"
+            },
+            {
+              "x": 46.3218,
+              "y": 58.4829,
+              "type": "offcurve"
+            },
+            {
+              "x": 48.925,
+              "y": 57.8386,
+              "type": "curve"
+            },
+            {
+              "x": 49,
+              "y": 57.82,
+              "type": "line"
+            },
+            {
+              "x": 49,
+              "y": 63.82,
+              "type": "line"
+            },
+            {
+              "x": 60.7502,
+              "y": 63.82,
+              "type": "line"
+            },
+            {
+              "x": 60.7502,
+              "y": 44.82,
+              "type": "line"
+            },
+            {
+              "x": 56.1655,
+              "y": 44.82,
+              "type": "offcurve"
+            },
+            {
+              "x": 52.3234,
+              "y": 41.353,
+              "type": "offcurve"
+            },
+            {
+              "x": 51.8542,
+              "y": 36.7924,
+              "type": "curve"
+            },
+            {
+              "x": 50.3748,
+              "y": 22.4146,
+              "type": "line"
+            },
+            {
+              "x": 50.0881,
+              "y": 19.6283,
+              "type": "offcurve"
+            },
+            {
+              "x": 47.7407,
+              "y": 17.51,
+              "type": "offcurve"
+            },
+            {
+              "x": 44.9397,
+              "y": 17.51,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_6",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 42.1348,
+                "y": 17.51,
+                "type": "offcurve"
+              },
+              {
+                "x": 39.7855,
+                "y": 19.6338,
+                "type": "offcurve"
+              },
+              {
+                "x": 39.5035,
+                "y": 22.4245,
+                "type": "curve"
+              },
+              {
+                "x": 38.0516,
+                "y": 36.7909,
+                "type": "line"
+              },
+              {
+                "x": 37.5908,
+                "y": 41.3502,
+                "type": "offcurve"
+              },
+              {
+                "x": 33.7527,
+                "y": 44.82,
+                "type": "offcurve"
+              },
+              {
+                "x": 29.1702,
+                "y": 44.82,
+                "type": "curve"
+              },
+              {
+                "x": 29.1702,
+                "y": 63.82,
+                "type": "line"
+              },
+              {
+                "x": 41,
+                "y": 63.82,
+                "type": "line"
+              },
+              {
+                "x": 41,
+                "y": 57.82,
+                "type": "line"
+              },
+              {
+                "x": 43.6001,
+                "y": 58.4766,
+                "type": "offcurve"
+              },
+              {
+                "x": 46.3218,
+                "y": 58.4829,
+                "type": "offcurve"
+              },
+              {
+                "x": 48.925,
+                "y": 57.8386,
+                "type": "curve"
+              },
+              {
+                "x": 49,
+                "y": 57.82,
+                "type": "line"
+              },
+              {
+                "x": 49,
+                "y": 63.82,
+                "type": "line"
+              },
+              {
+                "x": 60.7502,
+                "y": 63.82,
+                "type": "line"
+              },
+              {
+                "x": 60.7502,
+                "y": 44.82,
+                "type": "line"
+              },
+              {
+                "x": 56.1655,
+                "y": 44.82,
+                "type": "offcurve"
+              },
+              {
+                "x": 52.3234,
+                "y": 41.353,
+                "type": "offcurve"
+              },
+              {
+                "x": 51.8542,
+                "y": 36.7924,
+                "type": "curve"
+              },
+              {
+                "x": 50.3748,
+                "y": 22.4146,
+                "type": "line"
+              },
+              {
+                "x": 50.0881,
+                "y": 19.6283,
+                "type": "offcurve"
+              },
+              {
+                "x": 47.7407,
+                "y": 17.51,
+                "type": "offcurve"
+              },
+              {
+                "x": 44.9397,
+                "y": 17.51,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#8B8987",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_7",
+        "contour": {
+          "id": "c_path_7",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 47.1037,
+              "y": 52.26,
+              "type": "offcurve"
+            },
+            {
+              "x": 48.8498,
+              "y": 50.5139,
+              "type": "offcurve"
+            },
+            {
+              "x": 48.8498,
+              "y": 48.36,
+              "type": "curve"
+            },
+            {
+              "x": 48.8498,
+              "y": 46.2061,
+              "type": "offcurve"
+            },
+            {
+              "x": 47.1037,
+              "y": 44.46,
+              "type": "offcurve"
+            },
+            {
+              "x": 44.9498,
+              "y": 44.46,
+              "type": "curve"
+            },
+            {
+              "x": 42.7959,
+              "y": 44.46,
+              "type": "offcurve"
+            },
+            {
+              "x": 41.0498,
+              "y": 46.2061,
+              "type": "offcurve"
+            },
+            {
+              "x": 41.0498,
+              "y": 48.36,
+              "type": "curve"
+            },
+            {
+              "x": 41.0498,
+              "y": 50.5139,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.7959,
+              "y": 52.26,
+              "type": "offcurve"
+            },
+            {
+              "x": 44.9498,
+              "y": 52.26,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_7",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 47.1037,
+                "y": 52.26,
+                "type": "offcurve"
+              },
+              {
+                "x": 48.8498,
+                "y": 50.5139,
+                "type": "offcurve"
+              },
+              {
+                "x": 48.8498,
+                "y": 48.36,
+                "type": "curve"
+              },
+              {
+                "x": 48.8498,
+                "y": 46.2061,
+                "type": "offcurve"
+              },
+              {
+                "x": 47.1037,
+                "y": 44.46,
+                "type": "offcurve"
+              },
+              {
+                "x": 44.9498,
+                "y": 44.46,
+                "type": "curve"
+              },
+              {
+                "x": 42.7959,
+                "y": 44.46,
+                "type": "offcurve"
+              },
+              {
+                "x": 41.0498,
+                "y": 46.2061,
+                "type": "offcurve"
+              },
+              {
+                "x": 41.0498,
+                "y": 48.36,
+                "type": "curve"
+              },
+              {
+                "x": 41.0498,
+                "y": 50.5139,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.7959,
+                "y": 52.26,
+                "type": "offcurve"
+              },
+              {
+                "x": 44.9498,
+                "y": 52.26,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#1E2533",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_8",
+        "contour": {
+          "id": "c_path_8",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 31.8218,
+              "y": 83,
+              "type": "offcurve"
+            },
+            {
+              "x": 41,
+              "y": 73.8218,
+              "type": "offcurve"
+            },
+            {
+              "x": 41,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 41,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 31.8218,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.5,
+              "y": 42,
+              "type": "curve"
+            },
+            {
+              "x": 9.17816,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 0,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 0,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 0,
+              "y": 73.8218,
+              "type": "offcurve"
+            },
+            {
+              "x": 9.17816,
+              "y": 83,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.5,
+              "y": 83,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_8",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 31.8218,
+                "y": 83,
+                "type": "offcurve"
+              },
+              {
+                "x": 41,
+                "y": 73.8218,
+                "type": "offcurve"
+              },
+              {
+                "x": 41,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 41,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 31.8218,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.5,
+                "y": 42,
+                "type": "curve"
+              },
+              {
+                "x": 9.17816,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 0,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 0,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 0,
+                "y": 73.8218,
+                "type": "offcurve"
+              },
+              {
+                "x": 9.17816,
+                "y": 83,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.5,
+                "y": 83,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_9",
+        "contour": {
+          "id": "c_path_9",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 31.8218,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 41,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 41,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 41,
+              "y": 62.8271,
+              "type": "offcurve"
+            },
+            {
+              "x": 40.9907,
+              "y": 63.1523,
+              "type": "offcurve"
+            },
+            {
+              "x": 40.9756,
+              "y": 63.4756,
+              "type": "curve"
+            },
+            {
+              "x": 40.4657,
+              "y": 52.6074,
+              "type": "offcurve"
+            },
+            {
+              "x": 31.4944,
+              "y": 43.9521,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.5,
+              "y": 43.9521,
+              "type": "curve"
+            },
+            {
+              "x": 9.50212,
+              "y": 43.9523,
+              "type": "offcurve"
+            },
+            {
+              "x": 0.527884,
+              "y": 52.6131,
+              "type": "offcurve"
+            },
+            {
+              "x": 0.0234375,
+              "y": 63.4863,
+              "type": "curve"
+            },
+            {
+              "x": 0.00795503,
+              "y": 63.1595,
+              "type": "offcurve"
+            },
+            {
+              "x": 0,
+              "y": 62.8307,
+              "type": "offcurve"
+            },
+            {
+              "x": 0,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 0,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 9.17816,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.5,
+              "y": 42,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_9",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 31.8218,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 41,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 41,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 41,
+                "y": 62.8271,
+                "type": "offcurve"
+              },
+              {
+                "x": 40.9907,
+                "y": 63.1523,
+                "type": "offcurve"
+              },
+              {
+                "x": 40.9756,
+                "y": 63.4756,
+                "type": "curve"
+              },
+              {
+                "x": 40.4657,
+                "y": 52.6074,
+                "type": "offcurve"
+              },
+              {
+                "x": 31.4944,
+                "y": 43.9521,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.5,
+                "y": 43.9521,
+                "type": "curve"
+              },
+              {
+                "x": 9.50212,
+                "y": 43.9523,
+                "type": "offcurve"
+              },
+              {
+                "x": 0.527884,
+                "y": 52.6131,
+                "type": "offcurve"
+              },
+              {
+                "x": 0.0234375,
+                "y": 63.4863,
+                "type": "curve"
+              },
+              {
+                "x": 0.00795503,
+                "y": 63.1595,
+                "type": "offcurve"
+              },
+              {
+                "x": 0,
+                "y": 62.8307,
+                "type": "offcurve"
+              },
+              {
+                "x": 0,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 0,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 9.17816,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.5,
+                "y": 42,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_10",
+        "contour": {
+          "id": "c_path_10",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 28.5115,
+              "y": 77.0456,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0456,
+              "y": 70.5115,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0456,
+              "y": 62.4514,
+              "type": "curve"
+            },
+            {
+              "x": 35.0456,
+              "y": 54.3912,
+              "type": "offcurve"
+            },
+            {
+              "x": 28.5115,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.4514,
+              "y": 47.8571,
+              "type": "curve"
+            },
+            {
+              "x": 12.3912,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 5.85718,
+              "y": 54.3912,
+              "type": "offcurve"
+            },
+            {
+              "x": 5.85718,
+              "y": 62.4514,
+              "type": "curve"
+            },
+            {
+              "x": 5.85718,
+              "y": 70.5115,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.3912,
+              "y": 77.0456,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.4514,
+              "y": 77.0456,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_10",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 28.5115,
+                "y": 77.0456,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0456,
+                "y": 70.5115,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0456,
+                "y": 62.4514,
+                "type": "curve"
+              },
+              {
+                "x": 35.0456,
+                "y": 54.3912,
+                "type": "offcurve"
+              },
+              {
+                "x": 28.5115,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.4514,
+                "y": 47.8571,
+                "type": "curve"
+              },
+              {
+                "x": 12.3912,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 5.85718,
+                "y": 54.3912,
+                "type": "offcurve"
+              },
+              {
+                "x": 5.85718,
+                "y": 62.4514,
+                "type": "curve"
+              },
+              {
+                "x": 5.85718,
+                "y": 70.5115,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.3912,
+                "y": 77.0456,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.4514,
+                "y": 77.0456,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#8B8987",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_11",
+        "contour": {
+          "id": "c_path_11",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 28.5111,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0455,
+              "y": 54.3909,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0458,
+              "y": 62.4509,
+              "type": "curve"
+            },
+            {
+              "x": 35.0458,
+              "y": 65.4903,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.115,
+              "y": 68.3123,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.5253,
+              "y": 70.6491,
+              "type": "curve"
+            },
+            {
+              "x": 30.189,
+              "y": 72.2375,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.368,
+              "y": 73.1667,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.33,
+              "y": 73.1667,
+              "type": "curve"
+            },
+            {
+              "x": 16.2701,
+              "y": 73.1665,
+              "type": "offcurve"
+            },
+            {
+              "x": 9.73647,
+              "y": 66.6328,
+              "type": "offcurve"
+            },
+            {
+              "x": 9.73621,
+              "y": 58.573,
+              "type": "curve"
+            },
+            {
+              "x": 9.73621,
+              "y": 55.5341,
+              "type": "offcurve"
+            },
+            {
+              "x": 10.6646,
+              "y": 52.7114,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.2538,
+              "y": 50.3747,
+              "type": "curve"
+            },
+            {
+              "x": 14.5903,
+              "y": 48.7856,
+              "type": "offcurve"
+            },
+            {
+              "x": 17.4123,
+              "y": 47.8572,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.451,
+              "y": 47.8571,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_11",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 28.5111,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0455,
+                "y": 54.3909,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0458,
+                "y": 62.4509,
+                "type": "curve"
+              },
+              {
+                "x": 35.0458,
+                "y": 65.4903,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.115,
+                "y": 68.3123,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.5253,
+                "y": 70.6491,
+                "type": "curve"
+              },
+              {
+                "x": 30.189,
+                "y": 72.2375,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.368,
+                "y": 73.1667,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.33,
+                "y": 73.1667,
+                "type": "curve"
+              },
+              {
+                "x": 16.2701,
+                "y": 73.1665,
+                "type": "offcurve"
+              },
+              {
+                "x": 9.73647,
+                "y": 66.6328,
+                "type": "offcurve"
+              },
+              {
+                "x": 9.73621,
+                "y": 58.573,
+                "type": "curve"
+              },
+              {
+                "x": 9.73621,
+                "y": 55.5341,
+                "type": "offcurve"
+              },
+              {
+                "x": 10.6646,
+                "y": 52.7114,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.2538,
+                "y": 50.3747,
+                "type": "curve"
+              },
+              {
+                "x": 14.5903,
+                "y": 48.7856,
+                "type": "offcurve"
+              },
+              {
+                "x": 17.4123,
+                "y": 47.8572,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.451,
+                "y": 47.8571,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#008CD1",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_12",
+        "contour": {
+          "id": "c_path_12",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 28.195,
+              "y": 51.6494,
+              "type": "offcurve"
+            },
+            {
+              "x": 33.0474,
+              "y": 55.2626,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.8905,
+              "y": 60.3222,
+              "type": "curve"
+            },
+            {
+              "x": 34.9921,
+              "y": 61.0171,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0458,
+              "y": 61.728,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.0458,
+              "y": 62.4511,
+              "type": "curve"
+            },
+            {
+              "x": 35.0457,
+              "y": 65.4905,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.115,
+              "y": 68.3125,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.5253,
+              "y": 70.6494,
+              "type": "curve"
+            },
+            {
+              "x": 30.1891,
+              "y": 72.2377,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.3679,
+              "y": 73.1669,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.33,
+              "y": 73.1669,
+              "type": "curve"
+            },
+            {
+              "x": 17.0531,
+              "y": 73.1667,
+              "type": "offcurve"
+            },
+            {
+              "x": 11.0205,
+              "y": 67.8405,
+              "type": "offcurve"
+            },
+            {
+              "x": 9.91687,
+              "y": 60.874,
+              "type": "curve"
+            },
+            {
+              "x": 11.5989,
+              "y": 55.5271,
+              "type": "offcurve"
+            },
+            {
+              "x": 16.5957,
+              "y": 51.6494,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.4979,
+              "y": 51.6494,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_12",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 28.195,
+                "y": 51.6494,
+                "type": "offcurve"
+              },
+              {
+                "x": 33.0474,
+                "y": 55.2626,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.8905,
+                "y": 60.3222,
+                "type": "curve"
+              },
+              {
+                "x": 34.9921,
+                "y": 61.0171,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0458,
+                "y": 61.728,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.0458,
+                "y": 62.4511,
+                "type": "curve"
+              },
+              {
+                "x": 35.0457,
+                "y": 65.4905,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.115,
+                "y": 68.3125,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.5253,
+                "y": 70.6494,
+                "type": "curve"
+              },
+              {
+                "x": 30.1891,
+                "y": 72.2377,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.3679,
+                "y": 73.1669,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.33,
+                "y": 73.1669,
+                "type": "curve"
+              },
+              {
+                "x": 17.0531,
+                "y": 73.1667,
+                "type": "offcurve"
+              },
+              {
+                "x": 11.0205,
+                "y": 67.8405,
+                "type": "offcurve"
+              },
+              {
+                "x": 9.91687,
+                "y": 60.874,
+                "type": "curve"
+              },
+              {
+                "x": 11.5989,
+                "y": 55.5271,
+                "type": "offcurve"
+              },
+              {
+                "x": 16.5957,
+                "y": 51.6494,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.4979,
+                "y": 51.6494,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#4DC3EA",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_13",
+        "contour": {
+          "id": "c_path_13",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 13.3869,
+              "y": 68.386,
+              "type": "offcurve"
+            },
+            {
+              "x": 18.0397,
+              "y": 71.2308,
+              "type": "offcurve"
+            },
+            {
+              "x": 23.3573,
+              "y": 71.2308,
+              "type": "curve"
+            },
+            {
+              "x": 27.8998,
+              "y": 71.2307,
+              "type": "offcurve"
+            },
+            {
+              "x": 31.9561,
+              "y": 69.154,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.6327,
+              "y": 65.8997,
+              "type": "curve"
+            },
+            {
+              "x": 34.2148,
+              "y": 67.6222,
+              "type": "offcurve"
+            },
+            {
+              "x": 33.4934,
+              "y": 69.2256,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.5253,
+              "y": 70.6488,
+              "type": "curve"
+            },
+            {
+              "x": 30.189,
+              "y": 72.2372,
+              "type": "offcurve"
+            },
+            {
+              "x": 27.368,
+              "y": 73.1663,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.33,
+              "y": 73.1663,
+              "type": "curve"
+            },
+            {
+              "x": 18.2403,
+              "y": 73.1661,
+              "type": "offcurve"
+            },
+            {
+              "x": 13.0232,
+              "y": 69.436,
+              "type": "offcurve"
+            },
+            {
+              "x": 10.8358,
+              "y": 64.1361,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_13",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 13.3869,
+                "y": 68.386,
+                "type": "offcurve"
+              },
+              {
+                "x": 18.0397,
+                "y": 71.2308,
+                "type": "offcurve"
+              },
+              {
+                "x": 23.3573,
+                "y": 71.2308,
+                "type": "curve"
+              },
+              {
+                "x": 27.8998,
+                "y": 71.2307,
+                "type": "offcurve"
+              },
+              {
+                "x": 31.9561,
+                "y": 69.154,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.6327,
+                "y": 65.8997,
+                "type": "curve"
+              },
+              {
+                "x": 34.2148,
+                "y": 67.6222,
+                "type": "offcurve"
+              },
+              {
+                "x": 33.4934,
+                "y": 69.2256,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.5253,
+                "y": 70.6488,
+                "type": "curve"
+              },
+              {
+                "x": 30.189,
+                "y": 72.2372,
+                "type": "offcurve"
+              },
+              {
+                "x": 27.368,
+                "y": 73.1663,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.33,
+                "y": 73.1663,
+                "type": "curve"
+              },
+              {
+                "x": 18.2403,
+                "y": 73.1661,
+                "type": "offcurve"
+              },
+              {
+                "x": 13.0232,
+                "y": 69.436,
+                "type": "offcurve"
+              },
+              {
+                "x": 10.8358,
+                "y": 64.1361,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#83DEFC",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_14",
+        "contour": {
+          "id": "c_path_14",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 58.1782,
+              "y": 83,
+              "type": "offcurve"
+            },
+            {
+              "x": 49,
+              "y": 73.8218,
+              "type": "offcurve"
+            },
+            {
+              "x": 49,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 49,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.1782,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5,
+              "y": 42,
+              "type": "curve"
+            },
+            {
+              "x": 80.8218,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 90,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 90,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 90,
+              "y": 73.8218,
+              "type": "offcurve"
+            },
+            {
+              "x": 80.8218,
+              "y": 83,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5,
+              "y": 83,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_14",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 58.1782,
+                "y": 83,
+                "type": "offcurve"
+              },
+              {
+                "x": 49,
+                "y": 73.8218,
+                "type": "offcurve"
+              },
+              {
+                "x": 49,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 49,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.1782,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5,
+                "y": 42,
+                "type": "curve"
+              },
+              {
+                "x": 80.8218,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 90,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 90,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 90,
+                "y": 73.8218,
+                "type": "offcurve"
+              },
+              {
+                "x": 80.8218,
+                "y": 83,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5,
+                "y": 83,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_15",
+        "contour": {
+          "id": "c_path_15",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 58.1782,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 49,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 49,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 49,
+              "y": 62.8271,
+              "type": "offcurve"
+            },
+            {
+              "x": 49.0093,
+              "y": 63.1523,
+              "type": "offcurve"
+            },
+            {
+              "x": 49.0244,
+              "y": 63.4756,
+              "type": "curve"
+            },
+            {
+              "x": 49.5343,
+              "y": 52.6074,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.5056,
+              "y": 43.9521,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5,
+              "y": 43.9521,
+              "type": "curve"
+            },
+            {
+              "x": 80.4979,
+              "y": 43.9523,
+              "type": "offcurve"
+            },
+            {
+              "x": 89.4721,
+              "y": 52.6131,
+              "type": "offcurve"
+            },
+            {
+              "x": 89.9766,
+              "y": 63.4863,
+              "type": "curve"
+            },
+            {
+              "x": 89.992,
+              "y": 63.1595,
+              "type": "offcurve"
+            },
+            {
+              "x": 90,
+              "y": 62.8307,
+              "type": "offcurve"
+            },
+            {
+              "x": 90,
+              "y": 62.5,
+              "type": "curve"
+            },
+            {
+              "x": 90,
+              "y": 51.1782,
+              "type": "offcurve"
+            },
+            {
+              "x": 80.8218,
+              "y": 42,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5,
+              "y": 42,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_15",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 58.1782,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 49,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 49,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 49,
+                "y": 62.8271,
+                "type": "offcurve"
+              },
+              {
+                "x": 49.0093,
+                "y": 63.1523,
+                "type": "offcurve"
+              },
+              {
+                "x": 49.0244,
+                "y": 63.4756,
+                "type": "curve"
+              },
+              {
+                "x": 49.5343,
+                "y": 52.6074,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.5056,
+                "y": 43.9521,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5,
+                "y": 43.9521,
+                "type": "curve"
+              },
+              {
+                "x": 80.4979,
+                "y": 43.9523,
+                "type": "offcurve"
+              },
+              {
+                "x": 89.4721,
+                "y": 52.6131,
+                "type": "offcurve"
+              },
+              {
+                "x": 89.9766,
+                "y": 63.4863,
+                "type": "curve"
+              },
+              {
+                "x": 89.992,
+                "y": 63.1595,
+                "type": "offcurve"
+              },
+              {
+                "x": 90,
+                "y": 62.8307,
+                "type": "offcurve"
+              },
+              {
+                "x": 90,
+                "y": 62.5,
+                "type": "curve"
+              },
+              {
+                "x": 90,
+                "y": 51.1782,
+                "type": "offcurve"
+              },
+              {
+                "x": 80.8218,
+                "y": 42,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5,
+                "y": 42,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#DAD8D6",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_16",
+        "contour": {
+          "id": "c_path_16",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 61.4884,
+              "y": 77.0456,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9543,
+              "y": 70.5115,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9543,
+              "y": 62.4514,
+              "type": "curve"
+            },
+            {
+              "x": 54.9543,
+              "y": 54.3912,
+              "type": "offcurve"
+            },
+            {
+              "x": 61.4884,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5485,
+              "y": 47.8571,
+              "type": "curve"
+            },
+            {
+              "x": 77.6087,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 84.1427,
+              "y": 54.3912,
+              "type": "offcurve"
+            },
+            {
+              "x": 84.1427,
+              "y": 62.4514,
+              "type": "curve"
+            },
+            {
+              "x": 84.1427,
+              "y": 70.5115,
+              "type": "offcurve"
+            },
+            {
+              "x": 77.6087,
+              "y": 77.0456,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.5485,
+              "y": 77.0456,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_16",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 61.4884,
+                "y": 77.0456,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9543,
+                "y": 70.5115,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9543,
+                "y": 62.4514,
+                "type": "curve"
+              },
+              {
+                "x": 54.9543,
+                "y": 54.3912,
+                "type": "offcurve"
+              },
+              {
+                "x": 61.4884,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5485,
+                "y": 47.8571,
+                "type": "curve"
+              },
+              {
+                "x": 77.6087,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 84.1427,
+                "y": 54.3912,
+                "type": "offcurve"
+              },
+              {
+                "x": 84.1427,
+                "y": 62.4514,
+                "type": "curve"
+              },
+              {
+                "x": 84.1427,
+                "y": 70.5115,
+                "type": "offcurve"
+              },
+              {
+                "x": 77.6087,
+                "y": 77.0456,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.5485,
+                "y": 77.0456,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#8B8987",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_17",
+        "contour": {
+          "id": "c_path_17",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 61.4889,
+              "y": 47.8571,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9545,
+              "y": 54.3909,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9542,
+              "y": 62.4509,
+              "type": "curve"
+            },
+            {
+              "x": 54.9542,
+              "y": 65.4903,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.885,
+              "y": 68.3123,
+              "type": "offcurve"
+            },
+            {
+              "x": 57.4747,
+              "y": 70.6491,
+              "type": "curve"
+            },
+            {
+              "x": 59.811,
+              "y": 72.2375,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.632,
+              "y": 73.1667,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.67,
+              "y": 73.1667,
+              "type": "curve"
+            },
+            {
+              "x": 73.7299,
+              "y": 73.1665,
+              "type": "offcurve"
+            },
+            {
+              "x": 80.2635,
+              "y": 66.6328,
+              "type": "offcurve"
+            },
+            {
+              "x": 80.2638,
+              "y": 58.573,
+              "type": "curve"
+            },
+            {
+              "x": 80.2638,
+              "y": 55.5341,
+              "type": "offcurve"
+            },
+            {
+              "x": 79.3354,
+              "y": 52.7114,
+              "type": "offcurve"
+            },
+            {
+              "x": 77.7462,
+              "y": 50.3747,
+              "type": "curve"
+            },
+            {
+              "x": 75.4097,
+              "y": 48.7856,
+              "type": "offcurve"
+            },
+            {
+              "x": 72.5877,
+              "y": 47.8572,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.549,
+              "y": 47.8571,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_17",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 61.4889,
+                "y": 47.8571,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9545,
+                "y": 54.3909,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9542,
+                "y": 62.4509,
+                "type": "curve"
+              },
+              {
+                "x": 54.9542,
+                "y": 65.4903,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.885,
+                "y": 68.3123,
+                "type": "offcurve"
+              },
+              {
+                "x": 57.4747,
+                "y": 70.6491,
+                "type": "curve"
+              },
+              {
+                "x": 59.811,
+                "y": 72.2375,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.632,
+                "y": 73.1667,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.67,
+                "y": 73.1667,
+                "type": "curve"
+              },
+              {
+                "x": 73.7299,
+                "y": 73.1665,
+                "type": "offcurve"
+              },
+              {
+                "x": 80.2635,
+                "y": 66.6328,
+                "type": "offcurve"
+              },
+              {
+                "x": 80.2638,
+                "y": 58.573,
+                "type": "curve"
+              },
+              {
+                "x": 80.2638,
+                "y": 55.5341,
+                "type": "offcurve"
+              },
+              {
+                "x": 79.3354,
+                "y": 52.7114,
+                "type": "offcurve"
+              },
+              {
+                "x": 77.7462,
+                "y": 50.3747,
+                "type": "curve"
+              },
+              {
+                "x": 75.4097,
+                "y": 48.7856,
+                "type": "offcurve"
+              },
+              {
+                "x": 72.5877,
+                "y": 47.8572,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.549,
+                "y": 47.8571,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#008CD1",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_18",
+        "contour": {
+          "id": "c_path_18",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 61.805,
+              "y": 51.6494,
+              "type": "offcurve"
+            },
+            {
+              "x": 56.9526,
+              "y": 55.2626,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.1095,
+              "y": 60.3222,
+              "type": "curve"
+            },
+            {
+              "x": 55.0079,
+              "y": 61.0171,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9542,
+              "y": 61.728,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.9542,
+              "y": 62.4511,
+              "type": "curve"
+            },
+            {
+              "x": 54.9543,
+              "y": 65.4905,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.885,
+              "y": 68.3125,
+              "type": "offcurve"
+            },
+            {
+              "x": 57.4747,
+              "y": 70.6494,
+              "type": "curve"
+            },
+            {
+              "x": 59.8109,
+              "y": 72.2377,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.6321,
+              "y": 73.1669,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.67,
+              "y": 73.1669,
+              "type": "curve"
+            },
+            {
+              "x": 72.9469,
+              "y": 73.1667,
+              "type": "offcurve"
+            },
+            {
+              "x": 78.9795,
+              "y": 67.8405,
+              "type": "offcurve"
+            },
+            {
+              "x": 80.0831,
+              "y": 60.874,
+              "type": "curve"
+            },
+            {
+              "x": 78.4011,
+              "y": 55.5271,
+              "type": "offcurve"
+            },
+            {
+              "x": 73.4043,
+              "y": 51.6494,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.5021,
+              "y": 51.6494,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_18",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 61.805,
+                "y": 51.6494,
+                "type": "offcurve"
+              },
+              {
+                "x": 56.9526,
+                "y": 55.2626,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.1095,
+                "y": 60.3222,
+                "type": "curve"
+              },
+              {
+                "x": 55.0079,
+                "y": 61.0171,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9542,
+                "y": 61.728,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.9542,
+                "y": 62.4511,
+                "type": "curve"
+              },
+              {
+                "x": 54.9543,
+                "y": 65.4905,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.885,
+                "y": 68.3125,
+                "type": "offcurve"
+              },
+              {
+                "x": 57.4747,
+                "y": 70.6494,
+                "type": "curve"
+              },
+              {
+                "x": 59.8109,
+                "y": 72.2377,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.6321,
+                "y": 73.1669,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.67,
+                "y": 73.1669,
+                "type": "curve"
+              },
+              {
+                "x": 72.9469,
+                "y": 73.1667,
+                "type": "offcurve"
+              },
+              {
+                "x": 78.9795,
+                "y": 67.8405,
+                "type": "offcurve"
+              },
+              {
+                "x": 80.0831,
+                "y": 60.874,
+                "type": "curve"
+              },
+              {
+                "x": 78.4011,
+                "y": 55.5271,
+                "type": "offcurve"
+              },
+              {
+                "x": 73.4043,
+                "y": 51.6494,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.5021,
+                "y": 51.6494,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#4DC3EA",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_19",
+        "contour": {
+          "id": "c_path_19",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 76.6131,
+              "y": 68.386,
+              "type": "offcurve"
+            },
+            {
+              "x": 71.9603,
+              "y": 71.2308,
+              "type": "offcurve"
+            },
+            {
+              "x": 66.6427,
+              "y": 71.2308,
+              "type": "curve"
+            },
+            {
+              "x": 62.1002,
+              "y": 71.2307,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.0439,
+              "y": 69.154,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.3673,
+              "y": 65.8997,
+              "type": "curve"
+            },
+            {
+              "x": 55.7852,
+              "y": 67.6222,
+              "type": "offcurve"
+            },
+            {
+              "x": 56.5066,
+              "y": 69.2256,
+              "type": "offcurve"
+            },
+            {
+              "x": 57.4747,
+              "y": 70.6488,
+              "type": "curve"
+            },
+            {
+              "x": 59.811,
+              "y": 72.2372,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.632,
+              "y": 73.1663,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.67,
+              "y": 73.1663,
+              "type": "curve"
+            },
+            {
+              "x": 71.7597,
+              "y": 73.1661,
+              "type": "offcurve"
+            },
+            {
+              "x": 76.9768,
+              "y": 69.436,
+              "type": "offcurve"
+            },
+            {
+              "x": 79.1642,
+              "y": 64.1361,
+              "type": "curve"
+            }
+          ]
+        },
+        "contours": [
+          {
+            "id": "c_path_19",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 76.6131,
+                "y": 68.386,
+                "type": "offcurve"
+              },
+              {
+                "x": 71.9603,
+                "y": 71.2308,
+                "type": "offcurve"
+              },
+              {
+                "x": 66.6427,
+                "y": 71.2308,
+                "type": "curve"
+              },
+              {
+                "x": 62.1002,
+                "y": 71.2307,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.0439,
+                "y": 69.154,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.3673,
+                "y": 65.8997,
+                "type": "curve"
+              },
+              {
+                "x": 55.7852,
+                "y": 67.6222,
+                "type": "offcurve"
+              },
+              {
+                "x": 56.5066,
+                "y": 69.2256,
+                "type": "offcurve"
+              },
+              {
+                "x": 57.4747,
+                "y": 70.6488,
+                "type": "curve"
+              },
+              {
+                "x": 59.811,
+                "y": 72.2372,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.632,
+                "y": 73.1663,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.67,
+                "y": 73.1663,
+                "type": "curve"
+              },
+              {
+                "x": 71.7597,
+                "y": 73.1661,
+                "type": "offcurve"
+              },
+              {
+                "x": 76.9768,
+                "y": 69.436,
+                "type": "offcurve"
+              },
+              {
+                "x": 79.1642,
+                "y": 64.1361,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#83DEFC",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "blendMode": "normal"
+      }
+    ]
+  }
 }

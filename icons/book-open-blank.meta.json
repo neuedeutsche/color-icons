@@ -1,5 +1,8 @@
 {
   "tags": [],
   "status": "draft",
-  "category": "book"
+  "category": "book",
+  "document": {
+    "paths": []
+  }
 }

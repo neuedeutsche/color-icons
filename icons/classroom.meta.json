@@ -2,5 +2,8 @@
   "tags": [],
   "status": "draft",
   "category": "board",
-  "conceptId": "IC-226146"
+  "conceptId": "IC-226146",
+  "document": {
+    "paths": []
+  }
 }
