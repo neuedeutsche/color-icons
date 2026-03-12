@@ -6,9 +6,9 @@
   "document": {
     "paths": [
       {
-        "id": "path_326",
+        "id": "path_466",
         "contour": {
-          "id": "c_path_326",
+          "id": "c_path_466",
           "closed": true,
           "nodes": [
             {
@@ -87,7 +87,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_326",
+            "id": "c_path_466",
             "closed": true,
             "nodes": [
               {
@@ -160,9 +160,9 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_327",
+        "id": "path_467",
         "contour": {
-          "id": "c_path_327",
+          "id": "c_path_467",
           "closed": true,
           "nodes": [
             {
@@ -324,7 +324,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_327",
+            "id": "c_path_467",
             "closed": true,
             "nodes": [
               {
@@ -468,9 +468,9 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_328",
+        "id": "path_468",
         "contour": {
-          "id": "c_path_328",
+          "id": "c_path_468",
           "closed": true,
           "nodes": [
             {
@@ -549,7 +549,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_328",
+            "id": "c_path_468",
             "closed": true,
             "nodes": [
               {
@@ -622,9 +622,9 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_329",
+        "id": "path_469",
         "contour": {
-          "id": "c_path_329",
+          "id": "c_path_469",
           "closed": true,
           "nodes": [
             {
@@ -786,7 +786,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_329",
+            "id": "c_path_469",
             "closed": true,
             "nodes": [
               {
@@ -930,9 +930,9 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_330",
+        "id": "path_470",
         "contour": {
-          "id": "c_path_330",
+          "id": "c_path_470",
           "closed": true,
           "nodes": [
             {
@@ -1094,7 +1094,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_330",
+            "id": "c_path_470",
             "closed": true,
             "nodes": [
               {

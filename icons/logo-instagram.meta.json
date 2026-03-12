@@ -6,9 +6,9 @@
   "document": {
     "paths": [
       {
-        "id": "path_318",
+        "id": "path_474",
         "contour": {
-          "id": "c_path_318",
+          "id": "c_path_474",
           "closed": true,
           "nodes": [
             {
@@ -114,7 +114,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_318",
+            "id": "c_path_474",
             "closed": true,
             "nodes": [
               {
@@ -187,9 +187,9 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_319",
+        "id": "path_475",
         "contour": {
-          "id": "c_path_319",
+          "id": "c_path_475",
           "closed": true,
           "nodes": [
             {
@@ -292,7 +292,7 @@
         "strokes": [],
         "contours": [
           {
-            "id": "c_path_319",
+            "id": "c_path_475",
             "closed": true,
             "nodes": [
               {
@@ -365,7 +365,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_320",
+        "id": "path_476",
         "contour": {
           "id": "c1",
           "closed": true,
