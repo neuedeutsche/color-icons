@@ -3,6 +3,73 @@
   "status": "draft",
   "category": "Engine",
   "document": {
-    "paths": []
+    "paths": [
+      {
+        "id": "path_3860",
+        "contour": {
+          "id": "c1",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 0,
+              "y": 0,
+              "type": "line"
+            },
+            {
+              "x": 90,
+              "y": 0,
+              "type": "line"
+            },
+            {
+              "x": 90,
+              "y": 90,
+              "type": "line"
+            },
+            {
+              "x": 0,
+              "y": 90,
+              "type": "line"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#000000",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c1",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 0,
+                "y": 0,
+                "type": "line"
+              },
+              {
+                "x": 90,
+                "y": 0,
+                "type": "line"
+              },
+              {
+                "x": 90,
+                "y": 90,
+                "type": "line"
+              },
+              {
+                "x": 0,
+                "y": 90,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
   }
 }
