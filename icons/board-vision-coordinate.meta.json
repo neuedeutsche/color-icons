@@ -5,7 +5,7 @@
   "document": {
     "paths": [
       {
-        "id": "path_4499",
+        "id": "path_4606",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -139,7 +139,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4500",
+        "id": "path_4607",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -273,7 +273,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4501",
+        "id": "path_4608",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -447,7 +447,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4502",
+        "id": "path_4609",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -547,7 +547,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4503",
+        "id": "path_4610",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -647,7 +647,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4504",
+        "id": "path_4611",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -827,7 +827,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4505",
+        "id": "path_4612",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -883,7 +883,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4506",
+        "id": "path_4613",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -939,7 +939,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4507",
+        "id": "path_4614",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1079,7 +1079,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4508",
+        "id": "path_4615",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1135,7 +1135,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4509",
+        "id": "path_4616",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1293,7 +1293,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4510",
+        "id": "path_4617",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1511,7 +1511,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4511",
+        "id": "path_4618",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1699,7 +1699,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4512",
+        "id": "path_4619",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1977,7 +1977,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4513",
+        "id": "path_4620",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -2467,28 +2467,12 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4514",
+        "id": "path_4621",
         "contour": {
           "id": "c1",
           "closed": true,
           "nodes": [
             {
-              "x": 23,
-              "y": 30.85,
-              "type": "offcurve"
-            },
-            {
-              "x": 32.85,
-              "y": 21,
-              "type": "offcurve"
-            },
-            {
-              "x": 45,
-              "y": 21,
-              "type": "curve",
-              "smooth": true
-            },
-            {
               "x": 57.15,
               "y": 21,
               "type": "offcurve"
@@ -2533,6 +2517,22 @@
             {
               "x": 23,
               "y": 43,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 23,
+              "y": 30.85,
+              "type": "offcurve"
+            },
+            {
+              "x": 32.85,
+              "y": 21,
+              "type": "offcurve"
+            },
+            {
+              "x": 45,
+              "y": 21,
               "type": "curve",
               "smooth": true
             }
@@ -2552,22 +2552,6 @@
             "closed": true,
             "nodes": [
               {
-                "x": 23,
-                "y": 30.85,
-                "type": "offcurve"
-              },
-              {
-                "x": 32.85,
-                "y": 21,
-                "type": "offcurve"
-              },
-              {
-                "x": 45,
-                "y": 21,
-                "type": "curve",
-                "smooth": true
-              },
-              {
                 "x": 57.15,
                 "y": 21,
                 "type": "offcurve"
@@ -2612,6 +2596,22 @@
               {
                 "x": 23,
                 "y": 43,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 23,
+                "y": 30.85,
+                "type": "offcurve"
+              },
+              {
+                "x": 32.85,
+                "y": 21,
+                "type": "offcurve"
+              },
+              {
+                "x": 45,
+                "y": 21,
                 "type": "curve",
                 "smooth": true
               }

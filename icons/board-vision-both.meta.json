@@ -5,7 +5,7 @@
   "document": {
     "paths": [
       {
-        "id": "path_4515",
+        "id": "path_4622",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -139,7 +139,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4516",
+        "id": "path_4623",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -273,7 +273,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4517",
+        "id": "path_4624",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -447,7 +447,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4518",
+        "id": "path_4625",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -547,7 +547,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4519",
+        "id": "path_4626",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -647,7 +647,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4520",
+        "id": "path_4627",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -827,7 +827,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4521",
+        "id": "path_4628",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -883,7 +883,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4522",
+        "id": "path_4629",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -939,7 +939,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4523",
+        "id": "path_4630",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1079,7 +1079,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4524",
+        "id": "path_4631",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1135,7 +1135,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4525",
+        "id": "path_4632",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1293,7 +1293,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4526",
+        "id": "path_4633",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1511,7 +1511,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4527",
+        "id": "path_4634",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1609,7 +1609,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4528",
+        "id": "path_4635",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1695,7 +1695,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4529",
+        "id": "path_4636",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -1973,7 +1973,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4530",
+        "id": "path_4637",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -2161,7 +2161,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4531",
+        "id": "path_4638",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -2319,7 +2319,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4532",
+        "id": "path_4639",
         "contour": {
           "id": "c1",
           "closed": true,
@@ -2809,28 +2809,12 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4533",
+        "id": "path_4640",
         "contour": {
           "id": "c1",
           "closed": true,
           "nodes": [
             {
-              "x": 32.85,
-              "y": 65,
-              "type": "offcurve"
-            },
-            {
-              "x": 23,
-              "y": 55.15,
-              "type": "offcurve"
-            },
-            {
-              "x": 23,
-              "y": 43,
-              "type": "curve",
-              "smooth": true
-            },
-            {
               "x": 23,
               "y": 30.85,
               "type": "offcurve"
@@ -2875,6 +2859,22 @@
             {
               "x": 45,
               "y": 65,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 32.85,
+              "y": 65,
+              "type": "offcurve"
+            },
+            {
+              "x": 23,
+              "y": 55.15,
+              "type": "offcurve"
+            },
+            {
+              "x": 23,
+              "y": 43,
               "type": "curve",
               "smooth": true
             }
@@ -2894,22 +2894,6 @@
             "closed": true,
             "nodes": [
               {
-                "x": 32.85,
-                "y": 65,
-                "type": "offcurve"
-              },
-              {
-                "x": 23,
-                "y": 55.15,
-                "type": "offcurve"
-              },
-              {
-                "x": 23,
-                "y": 43,
-                "type": "curve",
-                "smooth": true
-              },
-              {
                 "x": 23,
                 "y": 30.85,
                 "type": "offcurve"
@@ -2954,6 +2938,22 @@
               {
                 "x": 45,
                 "y": 65,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 32.85,
+                "y": 65,
+                "type": "offcurve"
+              },
+              {
+                "x": 23,
+                "y": 55.15,
+                "type": "offcurve"
+              },
+              {
+                "x": 23,
+                "y": 43,
                 "type": "curve",
                 "smooth": true
               }
@@ -2963,7 +2963,7 @@
         "blendMode": "normal"
       },
       {
-        "id": "path_4534",
+        "id": "path_4641",
         "contour": {
           "id": "c1",
           "closed": true,
