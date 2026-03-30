@@ -3,6 +3,1909 @@
   "status": "draft",
   "category": "logo",
   "document": {
-    "paths": []
+    "paths": [
+      {
+        "id": "path_4103",
+        "contour": {
+          "id": "c1",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 70,
+              "y": 5,
+              "type": "line"
+            },
+            {
+              "x": 78.28,
+              "y": 5,
+              "type": "offcurve"
+            },
+            {
+              "x": 85,
+              "y": 11.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 85,
+              "y": 20,
+              "type": "curve"
+            },
+            {
+              "x": 85,
+              "y": 70,
+              "type": "line"
+            },
+            {
+              "x": 85,
+              "y": 78.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 78.28,
+              "y": 85,
+              "type": "offcurve"
+            },
+            {
+              "x": 70,
+              "y": 85,
+              "type": "curve"
+            },
+            {
+              "x": 20,
+              "y": 85,
+              "type": "line"
+            },
+            {
+              "x": 11.72,
+              "y": 85,
+              "type": "offcurve"
+            },
+            {
+              "x": 5,
+              "y": 78.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 5,
+              "y": 70,
+              "type": "curve"
+            },
+            {
+              "x": 5,
+              "y": 20,
+              "type": "line"
+            },
+            {
+              "x": 5,
+              "y": 11.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 11.72,
+              "y": 5,
+              "type": "offcurve"
+            },
+            {
+              "x": 20,
+              "y": 5,
+              "type": "curve"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#ffffff",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c1",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 70,
+                "y": 5,
+                "type": "line"
+              },
+              {
+                "x": 78.28,
+                "y": 5,
+                "type": "offcurve"
+              },
+              {
+                "x": 85,
+                "y": 11.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 85,
+                "y": 20,
+                "type": "curve"
+              },
+              {
+                "x": 85,
+                "y": 70,
+                "type": "line"
+              },
+              {
+                "x": 85,
+                "y": 78.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 78.28,
+                "y": 85,
+                "type": "offcurve"
+              },
+              {
+                "x": 70,
+                "y": 85,
+                "type": "curve"
+              },
+              {
+                "x": 20,
+                "y": 85,
+                "type": "line"
+              },
+              {
+                "x": 11.72,
+                "y": 85,
+                "type": "offcurve"
+              },
+              {
+                "x": 5,
+                "y": 78.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 5,
+                "y": 70,
+                "type": "curve"
+              },
+              {
+                "x": 5,
+                "y": 20,
+                "type": "line"
+              },
+              {
+                "x": 5,
+                "y": 11.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 11.72,
+                "y": 5,
+                "type": "offcurve"
+              },
+              {
+                "x": 20,
+                "y": 5,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_4104",
+        "contour": {
+          "id": "c1",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 15.54,
+              "y": 59.41,
+              "type": "offcurve"
+            },
+            {
+              "x": 12.74,
+              "y": 49.93,
+              "type": "offcurve"
+            },
+            {
+              "x": 14.53,
+              "y": 40.19,
+              "type": "curve"
+            },
+            {
+              "x": 16,
+              "y": 32.17,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.29,
+              "y": 25.49,
+              "type": "offcurve"
+            },
+            {
+              "x": 26.7,
+              "y": 21.25,
+              "type": "curve"
+            },
+            {
+              "x": 32.74,
+              "y": 17.25,
+              "type": "offcurve"
+            },
+            {
+              "x": 40.66,
+              "y": 15.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 49.88,
+              "y": 15.71,
+              "type": "curve"
+            },
+            {
+              "x": 51.93,
+              "y": 15.78,
+              "type": "line"
+            },
+            {
+              "x": 52.61,
+              "y": 15.35,
+              "type": "line"
+            },
+            {
+              "x": 55.28,
+              "y": 13.62,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.05,
+              "y": 12.74,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.71,
+              "y": 12.14,
+              "type": "curve"
+            },
+            {
+              "x": 63.98,
+              "y": 11.98,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.16,
+              "y": 11.97,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.34,
+              "y": 12.06,
+              "type": "curve"
+            },
+            {
+              "x": 64.57,
+              "y": 12.18,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.64,
+              "y": 12.31,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.64,
+              "y": 12.6,
+              "type": "curve"
+            },
+            {
+              "x": 64.64,
+              "y": 12.7,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.21,
+              "y": 14.64,
+              "type": "offcurve"
+            },
+            {
+              "x": 63.68,
+              "y": 16.91,
+              "type": "curve"
+            },
+            {
+              "x": 62.73,
+              "y": 20.98,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.72,
+              "y": 21.04,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.84,
+              "y": 21.29,
+              "type": "curve"
+            },
+            {
+              "x": 62.9,
+              "y": 21.43,
+              "type": "offcurve"
+            },
+            {
+              "x": 63.32,
+              "y": 22.19,
+              "type": "offcurve"
+            },
+            {
+              "x": 63.75,
+              "y": 22.98,
+              "type": "curve"
+            },
+            {
+              "x": 64.19,
+              "y": 23.77,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.66,
+              "y": 24.63,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.81,
+              "y": 24.9,
+              "type": "curve"
+            },
+            {
+              "x": 64.95,
+              "y": 25.16,
+              "type": "offcurve"
+            },
+            {
+              "x": 66.28,
+              "y": 27.58,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.77,
+              "y": 30.26,
+              "type": "curve"
+            },
+            {
+              "x": 69.25,
+              "y": 32.95,
+              "type": "offcurve"
+            },
+            {
+              "x": 71.38,
+              "y": 36.81,
+              "type": "offcurve"
+            },
+            {
+              "x": 72.49,
+              "y": 38.83,
+              "type": "curve"
+            },
+            {
+              "x": 75.54,
+              "y": 44.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 77.19,
+              "y": 47.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 77.6,
+              "y": 48.09,
+              "type": "curve"
+            },
+            {
+              "x": 78.07,
+              "y": 48.94,
+              "type": "offcurve"
+            },
+            {
+              "x": 78.19,
+              "y": 49.49,
+              "type": "offcurve"
+            },
+            {
+              "x": 78.19,
+              "y": 50.82,
+              "type": "curve"
+            },
+            {
+              "x": 78.18,
+              "y": 51.68,
+              "type": "offcurve"
+            },
+            {
+              "x": 78.15,
+              "y": 51.97,
+              "type": "offcurve"
+            },
+            {
+              "x": 77.99,
+              "y": 52.58,
+              "type": "curve"
+            },
+            {
+              "x": 77.18,
+              "y": 55.71,
+              "type": "offcurve"
+            },
+            {
+              "x": 74.31,
+              "y": 58.38,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.7,
+              "y": 60.27,
+              "type": "curve"
+            },
+            {
+              "x": 68.66,
+              "y": 60.7,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.51,
+              "y": 61.08,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.25,
+              "y": 61.08,
+              "type": "curve"
+            },
+            {
+              "x": 67.01,
+              "y": 61.08,
+              "type": "offcurve"
+            },
+            {
+              "x": 66.88,
+              "y": 60.93,
+              "type": "offcurve"
+            },
+            {
+              "x": 66.18,
+              "y": 59.86,
+              "type": "curve"
+            },
+            {
+              "x": 64.93,
+              "y": 57.94,
+              "type": "offcurve"
+            },
+            {
+              "x": 62.5,
+              "y": 55.16,
+              "type": "offcurve"
+            },
+            {
+              "x": 60.03,
+              "y": 52.81,
+              "type": "curve"
+            },
+            {
+              "x": 58.61,
+              "y": 51.47,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.13,
+              "y": 51.07,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.71,
+              "y": 48.41,
+              "type": "curve"
+            },
+            {
+              "x": 50.37,
+              "y": 45.03,
+              "type": "offcurve"
+            },
+            {
+              "x": 48.81,
+              "y": 43.7,
+              "type": "offcurve"
+            },
+            {
+              "x": 46.73,
+              "y": 41.63,
+              "type": "curve"
+            },
+            {
+              "x": 42.97,
+              "y": 37.87,
+              "type": "offcurve"
+            },
+            {
+              "x": 41.19,
+              "y": 34.78,
+              "type": "offcurve"
+            },
+            {
+              "x": 40.92,
+              "y": 31.55,
+              "type": "curve"
+            },
+            {
+              "x": 40.84,
+              "y": 30.53,
+              "type": "offcurve"
+            },
+            {
+              "x": 41.1,
+              "y": 28.92,
+              "type": "offcurve"
+            },
+            {
+              "x": 41.4,
+              "y": 28.62,
+              "type": "curve"
+            },
+            {
+              "x": 41.79,
+              "y": 28.23,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.5,
+              "y": 28.61,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.4,
+              "y": 29.16,
+              "type": "curve"
+            },
+            {
+              "x": 42.37,
+              "y": 29.3,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.33,
+              "y": 29.77,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.31,
+              "y": 30.2,
+              "type": "curve"
+            },
+            {
+              "x": 42.28,
+              "y": 30.84,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.3,
+              "y": 31.09,
+              "type": "offcurve"
+            },
+            {
+              "x": 42.42,
+              "y": 31.58,
+              "type": "curve"
+            },
+            {
+              "x": 43.02,
+              "y": 33.95,
+              "type": "offcurve"
+            },
+            {
+              "x": 45.28,
+              "y": 36.67,
+              "type": "offcurve"
+            },
+            {
+              "x": 49.38,
+              "y": 39.93,
+              "type": "curve"
+            },
+            {
+              "x": 51.28,
+              "y": 41.44,
+              "type": "offcurve"
+            },
+            {
+              "x": 52.56,
+              "y": 42.36,
+              "type": "offcurve"
+            },
+            {
+              "x": 56.55,
+              "y": 45.08,
+              "type": "curve"
+            },
+            {
+              "x": 61.44,
+              "y": 48.41,
+              "type": "offcurve"
+            },
+            {
+              "x": 61.91,
+              "y": 48.79,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.24,
+              "y": 51.16,
+              "type": "curve"
+            },
+            {
+              "x": 66.41,
+              "y": 53.38,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.52,
+              "y": 54.76,
+              "type": "offcurve"
+            },
+            {
+              "x": 68.33,
+              "y": 56.22,
+              "type": "curve"
+            },
+            {
+              "x": 68.54,
+              "y": 56.61,
+              "type": "offcurve"
+            },
+            {
+              "x": 68.72,
+              "y": 56.93,
+              "type": "offcurve"
+            },
+            {
+              "x": 68.73,
+              "y": 56.94,
+              "type": "curve"
+            },
+            {
+              "x": 68.76,
+              "y": 57,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.68,
+              "y": 56.71,
+              "type": "offcurve"
+            },
+            {
+              "x": 70.24,
+              "y": 56.48,
+              "type": "curve"
+            },
+            {
+              "x": 72.61,
+              "y": 55.46,
+              "type": "offcurve"
+            },
+            {
+              "x": 74.14,
+              "y": 53.43,
+              "type": "offcurve"
+            },
+            {
+              "x": 74.61,
+              "y": 50.7,
+              "type": "curve"
+            },
+            {
+              "x": 74.73,
+              "y": 49.98,
+              "type": "line"
+            },
+            {
+              "x": 72.54,
+              "y": 46.32,
+              "type": "line"
+            },
+            {
+              "x": 71.34,
+              "y": 44.3,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.75,
+              "y": 41.65,
+              "type": "offcurve"
+            },
+            {
+              "x": 69.01,
+              "y": 40.41,
+              "type": "curve"
+            },
+            {
+              "x": 67.01,
+              "y": 37.06,
+              "type": "offcurve"
+            },
+            {
+              "x": 59.36,
+              "y": 24.24,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.84,
+              "y": 23.36,
+              "type": "curve"
+            },
+            {
+              "x": 58.59,
+              "y": 22.94,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.37,
+              "y": 22.53,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.35,
+              "y": 22.44,
+              "type": "curve"
+            },
+            {
+              "x": 58.33,
+              "y": 22.35,
+              "type": "offcurve"
+            },
+            {
+              "x": 58.68,
+              "y": 21.22,
+              "type": "offcurve"
+            },
+            {
+              "x": 59.26,
+              "y": 19.57,
+              "type": "curve"
+            },
+            {
+              "x": 60.35,
+              "y": 16.44,
+              "type": "offcurve"
+            },
+            {
+              "x": 60.35,
+              "y": 16.68,
+              "type": "offcurve"
+            },
+            {
+              "x": 59.26,
+              "y": 16.96,
+              "type": "curve"
+            },
+            {
+              "x": 57.58,
+              "y": 17.39,
+              "type": "offcurve"
+            },
+            {
+              "x": 55.94,
+              "y": 18.17,
+              "type": "offcurve"
+            },
+            {
+              "x": 52.62,
+              "y": 20.13,
+              "type": "curve"
+            },
+            {
+              "x": 51.95,
+              "y": 20.53,
+              "type": "offcurve"
+            },
+            {
+              "x": 51.44,
+              "y": 20.78,
+              "type": "offcurve"
+            },
+            {
+              "x": 51.32,
+              "y": 20.78,
+              "type": "curve"
+            },
+            {
+              "x": 51.2,
+              "y": 20.78,
+              "type": "offcurve"
+            },
+            {
+              "x": 50.71,
+              "y": 20.71,
+              "type": "offcurve"
+            },
+            {
+              "x": 50.21,
+              "y": 20.63,
+              "type": "curve"
+            },
+            {
+              "x": 47.88,
+              "y": 20.26,
+              "type": "offcurve"
+            },
+            {
+              "x": 45.44,
+              "y": 20.11,
+              "type": "offcurve"
+            },
+            {
+              "x": 43.09,
+              "y": 20.2,
+              "type": "curve"
+            },
+            {
+              "x": 37.9,
+              "y": 20.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 33.11,
+              "y": 21.97,
+              "type": "offcurve"
+            },
+            {
+              "x": 29.12,
+              "y": 24.78,
+              "type": "curve"
+            },
+            {
+              "x": 24.64,
+              "y": 27.93,
+              "type": "offcurve"
+            },
+            {
+              "x": 20.81,
+              "y": 33.11,
+              "type": "offcurve"
+            },
+            {
+              "x": 19,
+              "y": 38.45,
+              "type": "curve"
+            },
+            {
+              "x": 16.19,
+              "y": 46.77,
+              "type": "offcurve"
+            },
+            {
+              "x": 18.36,
+              "y": 56.39,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.68,
+              "y": 63.58,
+              "type": "curve"
+            },
+            {
+              "x": 29.38,
+              "y": 68.92,
+              "type": "offcurve"
+            },
+            {
+              "x": 35.81,
+              "y": 72.32,
+              "type": "offcurve"
+            },
+            {
+              "x": 43.02,
+              "y": 73.29,
+              "type": "curve"
+            },
+            {
+              "x": 44.51,
+              "y": 73.48,
+              "type": "offcurve"
+            },
+            {
+              "x": 47.29,
+              "y": 73.56,
+              "type": "offcurve"
+            },
+            {
+              "x": 48.78,
+              "y": 73.44,
+              "type": "curve"
+            },
+            {
+              "x": 55.42,
+              "y": 72.9,
+              "type": "offcurve"
+            },
+            {
+              "x": 61.25,
+              "y": 70.31,
+              "type": "offcurve"
+            },
+            {
+              "x": 65.97,
+              "y": 65.79,
+              "type": "curve"
+            },
+            {
+              "x": 66.72,
+              "y": 65.08,
+              "type": "offcurve"
+            },
+            {
+              "x": 66.86,
+              "y": 64.97,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.08,
+              "y": 64.97,
+              "type": "curve"
+            },
+            {
+              "x": 67.65,
+              "y": 64.97,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.86,
+              "y": 65.43,
+              "type": "offcurve"
+            },
+            {
+              "x": 67.54,
+              "y": 65.97,
+              "type": "curve"
+            },
+            {
+              "x": 66.83,
+              "y": 67.2,
+              "type": "offcurve"
+            },
+            {
+              "x": 64.81,
+              "y": 69.4,
+              "type": "offcurve"
+            },
+            {
+              "x": 63.27,
+              "y": 70.63,
+              "type": "curve"
+            },
+            {
+              "x": 59.49,
+              "y": 73.68,
+              "type": "offcurve"
+            },
+            {
+              "x": 54.72,
+              "y": 75.51,
+              "type": "offcurve"
+            },
+            {
+              "x": 49.23,
+              "y": 76.04,
+              "type": "curve"
+            },
+            {
+              "x": 48.18,
+              "y": 76.14,
+              "type": "offcurve"
+            },
+            {
+              "x": 44.92,
+              "y": 76.18,
+              "type": "offcurve"
+            },
+            {
+              "x": 43.9,
+              "y": 76.1,
+              "type": "curve"
+            },
+            {
+              "x": 39.35,
+              "y": 75.76,
+              "type": "offcurve"
+            },
+            {
+              "x": 34.78,
+              "y": 74.5,
+              "type": "offcurve"
+            },
+            {
+              "x": 30.77,
+              "y": 72.49,
+              "type": "curve"
+            },
+            {
+              "x": 27.53,
+              "y": 70.87,
+              "type": "offcurve"
+            },
+            {
+              "x": 24.69,
+              "y": 68.8,
+              "type": "offcurve"
+            },
+            {
+              "x": 22.21,
+              "y": 66.25,
+              "type": "curve"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#000000",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c1",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 15.54,
+                "y": 59.41,
+                "type": "offcurve"
+              },
+              {
+                "x": 12.74,
+                "y": 49.93,
+                "type": "offcurve"
+              },
+              {
+                "x": 14.53,
+                "y": 40.19,
+                "type": "curve"
+              },
+              {
+                "x": 16,
+                "y": 32.17,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.29,
+                "y": 25.49,
+                "type": "offcurve"
+              },
+              {
+                "x": 26.7,
+                "y": 21.25,
+                "type": "curve"
+              },
+              {
+                "x": 32.74,
+                "y": 17.25,
+                "type": "offcurve"
+              },
+              {
+                "x": 40.66,
+                "y": 15.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 49.88,
+                "y": 15.71,
+                "type": "curve"
+              },
+              {
+                "x": 51.93,
+                "y": 15.78,
+                "type": "line"
+              },
+              {
+                "x": 52.61,
+                "y": 15.35,
+                "type": "line"
+              },
+              {
+                "x": 55.28,
+                "y": 13.62,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.05,
+                "y": 12.74,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.71,
+                "y": 12.14,
+                "type": "curve"
+              },
+              {
+                "x": 63.98,
+                "y": 11.98,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.16,
+                "y": 11.97,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.34,
+                "y": 12.06,
+                "type": "curve"
+              },
+              {
+                "x": 64.57,
+                "y": 12.18,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.64,
+                "y": 12.31,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.64,
+                "y": 12.6,
+                "type": "curve"
+              },
+              {
+                "x": 64.64,
+                "y": 12.7,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.21,
+                "y": 14.64,
+                "type": "offcurve"
+              },
+              {
+                "x": 63.68,
+                "y": 16.91,
+                "type": "curve"
+              },
+              {
+                "x": 62.73,
+                "y": 20.98,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.72,
+                "y": 21.04,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.84,
+                "y": 21.29,
+                "type": "curve"
+              },
+              {
+                "x": 62.9,
+                "y": 21.43,
+                "type": "offcurve"
+              },
+              {
+                "x": 63.32,
+                "y": 22.19,
+                "type": "offcurve"
+              },
+              {
+                "x": 63.75,
+                "y": 22.98,
+                "type": "curve"
+              },
+              {
+                "x": 64.19,
+                "y": 23.77,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.66,
+                "y": 24.63,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.81,
+                "y": 24.9,
+                "type": "curve"
+              },
+              {
+                "x": 64.95,
+                "y": 25.16,
+                "type": "offcurve"
+              },
+              {
+                "x": 66.28,
+                "y": 27.58,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.77,
+                "y": 30.26,
+                "type": "curve"
+              },
+              {
+                "x": 69.25,
+                "y": 32.95,
+                "type": "offcurve"
+              },
+              {
+                "x": 71.38,
+                "y": 36.81,
+                "type": "offcurve"
+              },
+              {
+                "x": 72.49,
+                "y": 38.83,
+                "type": "curve"
+              },
+              {
+                "x": 75.54,
+                "y": 44.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 77.19,
+                "y": 47.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 77.6,
+                "y": 48.09,
+                "type": "curve"
+              },
+              {
+                "x": 78.07,
+                "y": 48.94,
+                "type": "offcurve"
+              },
+              {
+                "x": 78.19,
+                "y": 49.49,
+                "type": "offcurve"
+              },
+              {
+                "x": 78.19,
+                "y": 50.82,
+                "type": "curve"
+              },
+              {
+                "x": 78.18,
+                "y": 51.68,
+                "type": "offcurve"
+              },
+              {
+                "x": 78.15,
+                "y": 51.97,
+                "type": "offcurve"
+              },
+              {
+                "x": 77.99,
+                "y": 52.58,
+                "type": "curve"
+              },
+              {
+                "x": 77.18,
+                "y": 55.71,
+                "type": "offcurve"
+              },
+              {
+                "x": 74.31,
+                "y": 58.38,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.7,
+                "y": 60.27,
+                "type": "curve"
+              },
+              {
+                "x": 68.66,
+                "y": 60.7,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.51,
+                "y": 61.08,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.25,
+                "y": 61.08,
+                "type": "curve"
+              },
+              {
+                "x": 67.01,
+                "y": 61.08,
+                "type": "offcurve"
+              },
+              {
+                "x": 66.88,
+                "y": 60.93,
+                "type": "offcurve"
+              },
+              {
+                "x": 66.18,
+                "y": 59.86,
+                "type": "curve"
+              },
+              {
+                "x": 64.93,
+                "y": 57.94,
+                "type": "offcurve"
+              },
+              {
+                "x": 62.5,
+                "y": 55.16,
+                "type": "offcurve"
+              },
+              {
+                "x": 60.03,
+                "y": 52.81,
+                "type": "curve"
+              },
+              {
+                "x": 58.61,
+                "y": 51.47,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.13,
+                "y": 51.07,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.71,
+                "y": 48.41,
+                "type": "curve"
+              },
+              {
+                "x": 50.37,
+                "y": 45.03,
+                "type": "offcurve"
+              },
+              {
+                "x": 48.81,
+                "y": 43.7,
+                "type": "offcurve"
+              },
+              {
+                "x": 46.73,
+                "y": 41.63,
+                "type": "curve"
+              },
+              {
+                "x": 42.97,
+                "y": 37.87,
+                "type": "offcurve"
+              },
+              {
+                "x": 41.19,
+                "y": 34.78,
+                "type": "offcurve"
+              },
+              {
+                "x": 40.92,
+                "y": 31.55,
+                "type": "curve"
+              },
+              {
+                "x": 40.84,
+                "y": 30.53,
+                "type": "offcurve"
+              },
+              {
+                "x": 41.1,
+                "y": 28.92,
+                "type": "offcurve"
+              },
+              {
+                "x": 41.4,
+                "y": 28.62,
+                "type": "curve"
+              },
+              {
+                "x": 41.79,
+                "y": 28.23,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.5,
+                "y": 28.61,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.4,
+                "y": 29.16,
+                "type": "curve"
+              },
+              {
+                "x": 42.37,
+                "y": 29.3,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.33,
+                "y": 29.77,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.31,
+                "y": 30.2,
+                "type": "curve"
+              },
+              {
+                "x": 42.28,
+                "y": 30.84,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.3,
+                "y": 31.09,
+                "type": "offcurve"
+              },
+              {
+                "x": 42.42,
+                "y": 31.58,
+                "type": "curve"
+              },
+              {
+                "x": 43.02,
+                "y": 33.95,
+                "type": "offcurve"
+              },
+              {
+                "x": 45.28,
+                "y": 36.67,
+                "type": "offcurve"
+              },
+              {
+                "x": 49.38,
+                "y": 39.93,
+                "type": "curve"
+              },
+              {
+                "x": 51.28,
+                "y": 41.44,
+                "type": "offcurve"
+              },
+              {
+                "x": 52.56,
+                "y": 42.36,
+                "type": "offcurve"
+              },
+              {
+                "x": 56.55,
+                "y": 45.08,
+                "type": "curve"
+              },
+              {
+                "x": 61.44,
+                "y": 48.41,
+                "type": "offcurve"
+              },
+              {
+                "x": 61.91,
+                "y": 48.79,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.24,
+                "y": 51.16,
+                "type": "curve"
+              },
+              {
+                "x": 66.41,
+                "y": 53.38,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.52,
+                "y": 54.76,
+                "type": "offcurve"
+              },
+              {
+                "x": 68.33,
+                "y": 56.22,
+                "type": "curve"
+              },
+              {
+                "x": 68.54,
+                "y": 56.61,
+                "type": "offcurve"
+              },
+              {
+                "x": 68.72,
+                "y": 56.93,
+                "type": "offcurve"
+              },
+              {
+                "x": 68.73,
+                "y": 56.94,
+                "type": "curve"
+              },
+              {
+                "x": 68.76,
+                "y": 57,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.68,
+                "y": 56.71,
+                "type": "offcurve"
+              },
+              {
+                "x": 70.24,
+                "y": 56.48,
+                "type": "curve"
+              },
+              {
+                "x": 72.61,
+                "y": 55.46,
+                "type": "offcurve"
+              },
+              {
+                "x": 74.14,
+                "y": 53.43,
+                "type": "offcurve"
+              },
+              {
+                "x": 74.61,
+                "y": 50.7,
+                "type": "curve"
+              },
+              {
+                "x": 74.73,
+                "y": 49.98,
+                "type": "line"
+              },
+              {
+                "x": 72.54,
+                "y": 46.32,
+                "type": "line"
+              },
+              {
+                "x": 71.34,
+                "y": 44.3,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.75,
+                "y": 41.65,
+                "type": "offcurve"
+              },
+              {
+                "x": 69.01,
+                "y": 40.41,
+                "type": "curve"
+              },
+              {
+                "x": 67.01,
+                "y": 37.06,
+                "type": "offcurve"
+              },
+              {
+                "x": 59.36,
+                "y": 24.24,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.84,
+                "y": 23.36,
+                "type": "curve"
+              },
+              {
+                "x": 58.59,
+                "y": 22.94,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.37,
+                "y": 22.53,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.35,
+                "y": 22.44,
+                "type": "curve"
+              },
+              {
+                "x": 58.33,
+                "y": 22.35,
+                "type": "offcurve"
+              },
+              {
+                "x": 58.68,
+                "y": 21.22,
+                "type": "offcurve"
+              },
+              {
+                "x": 59.26,
+                "y": 19.57,
+                "type": "curve"
+              },
+              {
+                "x": 60.35,
+                "y": 16.44,
+                "type": "offcurve"
+              },
+              {
+                "x": 60.35,
+                "y": 16.68,
+                "type": "offcurve"
+              },
+              {
+                "x": 59.26,
+                "y": 16.96,
+                "type": "curve"
+              },
+              {
+                "x": 57.58,
+                "y": 17.39,
+                "type": "offcurve"
+              },
+              {
+                "x": 55.94,
+                "y": 18.17,
+                "type": "offcurve"
+              },
+              {
+                "x": 52.62,
+                "y": 20.13,
+                "type": "curve"
+              },
+              {
+                "x": 51.95,
+                "y": 20.53,
+                "type": "offcurve"
+              },
+              {
+                "x": 51.44,
+                "y": 20.78,
+                "type": "offcurve"
+              },
+              {
+                "x": 51.32,
+                "y": 20.78,
+                "type": "curve"
+              },
+              {
+                "x": 51.2,
+                "y": 20.78,
+                "type": "offcurve"
+              },
+              {
+                "x": 50.71,
+                "y": 20.71,
+                "type": "offcurve"
+              },
+              {
+                "x": 50.21,
+                "y": 20.63,
+                "type": "curve"
+              },
+              {
+                "x": 47.88,
+                "y": 20.26,
+                "type": "offcurve"
+              },
+              {
+                "x": 45.44,
+                "y": 20.11,
+                "type": "offcurve"
+              },
+              {
+                "x": 43.09,
+                "y": 20.2,
+                "type": "curve"
+              },
+              {
+                "x": 37.9,
+                "y": 20.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 33.11,
+                "y": 21.97,
+                "type": "offcurve"
+              },
+              {
+                "x": 29.12,
+                "y": 24.78,
+                "type": "curve"
+              },
+              {
+                "x": 24.64,
+                "y": 27.93,
+                "type": "offcurve"
+              },
+              {
+                "x": 20.81,
+                "y": 33.11,
+                "type": "offcurve"
+              },
+              {
+                "x": 19,
+                "y": 38.45,
+                "type": "curve"
+              },
+              {
+                "x": 16.19,
+                "y": 46.77,
+                "type": "offcurve"
+              },
+              {
+                "x": 18.36,
+                "y": 56.39,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.68,
+                "y": 63.58,
+                "type": "curve"
+              },
+              {
+                "x": 29.38,
+                "y": 68.92,
+                "type": "offcurve"
+              },
+              {
+                "x": 35.81,
+                "y": 72.32,
+                "type": "offcurve"
+              },
+              {
+                "x": 43.02,
+                "y": 73.29,
+                "type": "curve"
+              },
+              {
+                "x": 44.51,
+                "y": 73.48,
+                "type": "offcurve"
+              },
+              {
+                "x": 47.29,
+                "y": 73.56,
+                "type": "offcurve"
+              },
+              {
+                "x": 48.78,
+                "y": 73.44,
+                "type": "curve"
+              },
+              {
+                "x": 55.42,
+                "y": 72.9,
+                "type": "offcurve"
+              },
+              {
+                "x": 61.25,
+                "y": 70.31,
+                "type": "offcurve"
+              },
+              {
+                "x": 65.97,
+                "y": 65.79,
+                "type": "curve"
+              },
+              {
+                "x": 66.72,
+                "y": 65.08,
+                "type": "offcurve"
+              },
+              {
+                "x": 66.86,
+                "y": 64.97,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.08,
+                "y": 64.97,
+                "type": "curve"
+              },
+              {
+                "x": 67.65,
+                "y": 64.97,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.86,
+                "y": 65.43,
+                "type": "offcurve"
+              },
+              {
+                "x": 67.54,
+                "y": 65.97,
+                "type": "curve"
+              },
+              {
+                "x": 66.83,
+                "y": 67.2,
+                "type": "offcurve"
+              },
+              {
+                "x": 64.81,
+                "y": 69.4,
+                "type": "offcurve"
+              },
+              {
+                "x": 63.27,
+                "y": 70.63,
+                "type": "curve"
+              },
+              {
+                "x": 59.49,
+                "y": 73.68,
+                "type": "offcurve"
+              },
+              {
+                "x": 54.72,
+                "y": 75.51,
+                "type": "offcurve"
+              },
+              {
+                "x": 49.23,
+                "y": 76.04,
+                "type": "curve"
+              },
+              {
+                "x": 48.18,
+                "y": 76.14,
+                "type": "offcurve"
+              },
+              {
+                "x": 44.92,
+                "y": 76.18,
+                "type": "offcurve"
+              },
+              {
+                "x": 43.9,
+                "y": 76.1,
+                "type": "curve"
+              },
+              {
+                "x": 39.35,
+                "y": 75.76,
+                "type": "offcurve"
+              },
+              {
+                "x": 34.78,
+                "y": 74.5,
+                "type": "offcurve"
+              },
+              {
+                "x": 30.77,
+                "y": 72.49,
+                "type": "curve"
+              },
+              {
+                "x": 27.53,
+                "y": 70.87,
+                "type": "offcurve"
+              },
+              {
+                "x": 24.69,
+                "y": 68.8,
+                "type": "offcurve"
+              },
+              {
+                "x": 22.21,
+                "y": 66.25,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
   }
 }
