@@ -25,6 +25,24 @@
 
 Icons contain embedded colors — use `<img>` directly. CORS is enabled — load from any origin. Assets are immutably cached.
 
+### npm
+
+```bash
+npm install @justdraw/chess-pieces
+```
+
+```js
+import { CalendarPuzzle } from "@justdraw/chess-pieces";
+```
+
+Tree-shakeable ESM — only the icons you import ship to production. Deep imports available:
+
+```js
+import { CalendarPuzzle } from "@justdraw/chess-pieces/icons/calendar-puzzle.js";
+```
+
+Framework-specific packages (React, Vue, Svelte, Web Components) are also available — see [npm](https://www.npmjs.com/org/justdraw).
+
 ### Download
 
 Browse [`icons/`](./icons) for individual SVGs.
