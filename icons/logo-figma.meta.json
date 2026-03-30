@@ -4,6 +4,645 @@
   "category": "logo",
   "conceptId": "IC-225718",
   "document": {
-    "paths": []
+    "paths": [
+      {
+        "id": "path_96",
+        "contour": {
+          "id": "c_path_96",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 30.0061,
+              "y": 90,
+              "type": "curve"
+            },
+            {
+              "x": 21.7261,
+              "y": 90,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 83.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 75,
+              "type": "curve"
+            },
+            {
+              "x": 15.0061,
+              "y": 66.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.7261,
+              "y": 60,
+              "type": "offcurve"
+            },
+            {
+              "x": 30.0061,
+              "y": 60,
+              "type": "line"
+            },
+            {
+              "x": 45.0061,
+              "y": 60,
+              "type": "line"
+            },
+            {
+              "x": 45.0061,
+              "y": 75,
+              "type": "curve"
+            },
+            {
+              "x": 45.0061,
+              "y": 83.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 38.2861,
+              "y": 90,
+              "type": "offcurve"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#0ACF83",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c_path_96",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 30.0061,
+                "y": 90,
+                "type": "curve"
+              },
+              {
+                "x": 21.7261,
+                "y": 90,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 83.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 75,
+                "type": "curve"
+              },
+              {
+                "x": 15.0061,
+                "y": 66.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.7261,
+                "y": 60,
+                "type": "offcurve"
+              },
+              {
+                "x": 30.0061,
+                "y": 60,
+                "type": "line"
+              },
+              {
+                "x": 45.0061,
+                "y": 60,
+                "type": "line"
+              },
+              {
+                "x": 45.0061,
+                "y": 75,
+                "type": "curve"
+              },
+              {
+                "x": 45.0061,
+                "y": 83.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 38.2861,
+                "y": 90,
+                "type": "offcurve"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_97",
+        "contour": {
+          "id": "c_path_97",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 15.0061,
+              "y": 36.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.7261,
+              "y": 30,
+              "type": "offcurve"
+            },
+            {
+              "x": 30.0061,
+              "y": 30,
+              "type": "curve"
+            },
+            {
+              "x": 45.0061,
+              "y": 30,
+              "type": "line"
+            },
+            {
+              "x": 45.0061,
+              "y": 60,
+              "type": "line"
+            },
+            {
+              "x": 30.0061,
+              "y": 60,
+              "type": "line"
+            },
+            {
+              "x": 21.7261,
+              "y": 60,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 53.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 45,
+              "type": "curve"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#A259FF",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c_path_97",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 15.0061,
+                "y": 36.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.7261,
+                "y": 30,
+                "type": "offcurve"
+              },
+              {
+                "x": 30.0061,
+                "y": 30,
+                "type": "curve"
+              },
+              {
+                "x": 45.0061,
+                "y": 30,
+                "type": "line"
+              },
+              {
+                "x": 45.0061,
+                "y": 60,
+                "type": "line"
+              },
+              {
+                "x": 30.0061,
+                "y": 60,
+                "type": "line"
+              },
+              {
+                "x": 21.7261,
+                "y": 60,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 53.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 45,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_98",
+        "contour": {
+          "id": "c_path_98",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 15.0061,
+              "y": 6.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 21.7261,
+              "y": 0,
+              "type": "offcurve"
+            },
+            {
+              "x": 30.0061,
+              "y": 0,
+              "type": "curve"
+            },
+            {
+              "x": 45.0061,
+              "y": 0,
+              "type": "line"
+            },
+            {
+              "x": 45.0061,
+              "y": 30,
+              "type": "line"
+            },
+            {
+              "x": 30.0061,
+              "y": 30,
+              "type": "line"
+            },
+            {
+              "x": 21.7261,
+              "y": 30,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 23.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 15.0061,
+              "y": 15,
+              "type": "curve"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#F24E1E",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c_path_98",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 15.0061,
+                "y": 6.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 21.7261,
+                "y": 0,
+                "type": "offcurve"
+              },
+              {
+                "x": 30.0061,
+                "y": 0,
+                "type": "curve"
+              },
+              {
+                "x": 45.0061,
+                "y": 0,
+                "type": "line"
+              },
+              {
+                "x": 45.0061,
+                "y": 30,
+                "type": "line"
+              },
+              {
+                "x": 30.0061,
+                "y": 30,
+                "type": "line"
+              },
+              {
+                "x": 21.7261,
+                "y": 30,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 23.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 15.0061,
+                "y": 15,
+                "type": "curve"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_99",
+        "contour": {
+          "id": "c_path_99",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 60.0061,
+              "y": 0,
+              "type": "line"
+            },
+            {
+              "x": 68.2861,
+              "y": 0,
+              "type": "offcurve"
+            },
+            {
+              "x": 75.0061,
+              "y": 6.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 75.0061,
+              "y": 15,
+              "type": "curve"
+            },
+            {
+              "x": 75.0061,
+              "y": 23.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 68.2861,
+              "y": 30,
+              "type": "offcurve"
+            },
+            {
+              "x": 60.0061,
+              "y": 30,
+              "type": "curve"
+            },
+            {
+              "x": 45.0061,
+              "y": 30,
+              "type": "line"
+            },
+            {
+              "x": 45.0061,
+              "y": 0,
+              "type": "line"
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#FF7262",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c_path_99",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 60.0061,
+                "y": 0,
+                "type": "line"
+              },
+              {
+                "x": 68.2861,
+                "y": 0,
+                "type": "offcurve"
+              },
+              {
+                "x": 75.0061,
+                "y": 6.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 75.0061,
+                "y": 15,
+                "type": "curve"
+              },
+              {
+                "x": 75.0061,
+                "y": 23.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 68.2861,
+                "y": 30,
+                "type": "offcurve"
+              },
+              {
+                "x": 60.0061,
+                "y": 30,
+                "type": "curve"
+              },
+              {
+                "x": 45.0061,
+                "y": 30,
+                "type": "line"
+              },
+              {
+                "x": 45.0061,
+                "y": 0,
+                "type": "line"
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      },
+      {
+        "id": "path_100",
+        "contour": {
+          "id": "c_path_100",
+          "closed": true,
+          "nodes": [
+            {
+              "x": 75.0061,
+              "y": 53.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 68.2861,
+              "y": 60,
+              "type": "offcurve"
+            },
+            {
+              "x": 60.0061,
+              "y": 60,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 51.7261,
+              "y": 60,
+              "type": "offcurve"
+            },
+            {
+              "x": 45.0061,
+              "y": 53.28,
+              "type": "offcurve"
+            },
+            {
+              "x": 45.0061,
+              "y": 45,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 45.0061,
+              "y": 36.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 51.7261,
+              "y": 30,
+              "type": "offcurve"
+            },
+            {
+              "x": 60.0061,
+              "y": 30,
+              "type": "curve",
+              "smooth": true
+            },
+            {
+              "x": 68.2861,
+              "y": 30,
+              "type": "offcurve"
+            },
+            {
+              "x": 75.0061,
+              "y": 36.72,
+              "type": "offcurve"
+            },
+            {
+              "x": 75.0061,
+              "y": 45,
+              "type": "curve",
+              "smooth": true
+            }
+          ]
+        },
+        "fills": [
+          {
+            "type": "solid",
+            "color": "#1ABCFE",
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "contours": [
+          {
+            "id": "c_path_100",
+            "closed": true,
+            "nodes": [
+              {
+                "x": 75.0061,
+                "y": 53.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 68.2861,
+                "y": 60,
+                "type": "offcurve"
+              },
+              {
+                "x": 60.0061,
+                "y": 60,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 51.7261,
+                "y": 60,
+                "type": "offcurve"
+              },
+              {
+                "x": 45.0061,
+                "y": 53.28,
+                "type": "offcurve"
+              },
+              {
+                "x": 45.0061,
+                "y": 45,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 45.0061,
+                "y": 36.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 51.7261,
+                "y": 30,
+                "type": "offcurve"
+              },
+              {
+                "x": 60.0061,
+                "y": 30,
+                "type": "curve",
+                "smooth": true
+              },
+              {
+                "x": 68.2861,
+                "y": 30,
+                "type": "offcurve"
+              },
+              {
+                "x": 75.0061,
+                "y": 36.72,
+                "type": "offcurve"
+              },
+              {
+                "x": 75.0061,
+                "y": 45,
+                "type": "curve",
+                "smooth": true
+              }
+            ]
+          }
+        ],
+        "blendMode": "normal"
+      }
+    ]
   }
 }
